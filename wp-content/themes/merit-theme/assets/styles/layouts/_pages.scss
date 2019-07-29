@@ -1,0 +1,193 @@
+// Default Template & Content Block Styling
+.sidebar-primary .main{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 25px;
+}
+main.error404,
+.content.search{
+	padding: 40px 0;
+	min-height: 400px;
+}
+.accordion{
+	margin: 40px 0;	
+}
+.accordion h3{
+	background: $merit-blue;
+	font-size: 32px;
+	font-weight: $merit-font-bold;
+	
+	a{
+		display: block;
+		padding: 15px;
+		color: #fff;
+		
+		&:after{
+			content:"+";
+			float: right;	
+		}
+		&.active:after{
+			content: '-';
+			line-height: 32px;
+		}
+	}
+}
+main .events{
+	.single{
+		background: #ebebeb;
+		padding: 15px;
+		margin: 40px 0 40px;
+	}
+	
+	h3{
+		margin-top: 0;
+		font-size: 28px;
+		color: $merit-blue;
+		text-transform: uppercase;
+		font-weight: $merit-font-bold;
+	}
+	img{
+		float: right;
+		max-width: 45%;
+		height: auto;
+		margin-left: 20px;
+	}
+	
+}
+main .code{
+	text-align: center;
+	margin: 0 auto;
+	max-width: 100%;
+	overflow-x: auto;
+}
+
+.separator{
+	max-width: 1000px;
+	margin: 0px auto 40px;
+	padding-bottom: 20px;
+	border-bottom: 3px solid $merit-blue;
+}
+#faculty-search,
+#staff-listing{
+	margin: 40px 0;
+}
+#faculty-search .filters{
+	text-align: center;
+	margin: 20px auto;
+
+	select{
+		font-size: 18px;
+		background: #fff;
+		border: 1px solid $merit-orange;
+		color: $merit-orange;
+		display: inline;
+		max-width: 70%;
+	}
+	#view-all{
+		display: inline;
+		margin: 0 10px;
+		color: #fff;
+		background: $merit-orange;
+		border: 0;
+		text-transform: uppercase;
+		font-size: 16px;
+	}
+}
+.faculty,
+.staff{
+	margin: 0 auto;
+	padding: 0 20px;
+	max-width: 1000px; 
+	
+	h3{
+		font-size: 26px;
+		color: $merit-blue;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+	
+	.member{
+		margin: 0 auto;
+		max-width: 900px;
+		font-size: 16px;
+		
+		.right{
+			text-align: right;
+		}
+		
+		a{	
+			font-size: 18px;
+			color: $merit-orange;
+		}
+	}
+	
+	&.none{
+		text-align: center;
+		margin-top: 35px;
+		margin-bottom: 0;
+	}
+}
+.bios{
+	h2{
+		font-size: 24px;
+		margin-top: 40px;
+	}
+	h3{
+		text-transform: uppercase;
+		color: $merit-blue;
+		font-weight: 800;
+		font-size: 20px;
+		margin-bottom: 0;
+	}
+	a{ 
+		color: $merit-orange;
+	}
+	
+	p{
+		line-height: 1.4;
+	}
+	img{
+		margin: 40px 0;
+	}
+	
+	.contact-info{
+		margin: 40px 0;
+		background: #eee;
+		border: 2px solid $merit-orange;
+		padding: 20px;
+		font-size: 18px;
+	
+		h2{
+			margin-top: 0;
+			font-size: 20px;
+		}
+	}
+	
+	.quote{
+		color: #fff;
+		background: $merit-blue;
+		padding: 30px;
+		margin: 40px 0;
+		
+		h2, h3{
+			font-size: 32px;
+			color: #fff;
+			margin-top: 0;
+		}
+		
+		p{
+			font-style: italic;
+			font-size: 26px;
+		}
+	}
+}
+
+.search .swiftype-result{
+	margin-top: 40px;
+	padding-bottom: 30px;
+	border-bottom: 2px solid $merit-blue;
+}
+article.type-tribe_events h2.entry-title a:before{
+	content:"Event: ";
+	color: $merit-orange;
+}

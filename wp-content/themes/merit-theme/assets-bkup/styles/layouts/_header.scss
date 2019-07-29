@@ -1,0 +1,503 @@
+.translated-ltr{
+	header.banner{
+		top: 40px;
+	}
+	.nav-primary.active{
+		top: 40px;
+	}
+}
+/* --- Header Styles --- */
+header.banner{
+	position: fixed;
+	top: 0; right: 0; left: 0;
+	height: 100px;
+	width: 100%;
+	background-color: #fff;
+	z-index: 1001;
+	transition: all .3s linear;
+	overflow-x: hidden;
+	
+	a.brand{
+		display: block;
+		height: 75px;
+		width: 232px;
+		margin: 12px auto;
+		text-indent: 110%;
+		white-space: nowrap;
+		overflow: hidden;
+		background: url(../images/merit-logo.png) center center no-repeat;
+		background-size: contain !important;
+		
+		@include responsive(tablet){
+			margin-left: 25%;
+		}
+	}
+	@include responsive(mobile){
+		height: 70px !important;
+		overflow-y: hidden;
+		
+		a.brand{
+			height: 55px !important;
+			margin: 8px auto 8px 25%;
+		}
+		&.active{
+			border-top: 4px solid $merit-blue !important;
+		}
+	}
+}
+
+header.banner.narrow{
+	height: 70px;
+	box-shadow: 0 0 25px rgba(0,0,0,.2);
+	
+	a.brand{
+		height: 45px;
+	}
+}
+header.banner.active{
+	height: 110px;
+	border-top: 10px solid $merit-blue;
+	top: auto;
+	bottom: 0;
+	top: calc(100% - 110px);
+	
+	@include responsive(mobile){
+		height: 70px;
+		top: calc(100% - 70px);
+	}
+}
+header.banner.active.narrow{
+	height:80px;
+	top: calc(100% - 80px;)
+}
+
+/* --- Navigation Styles --- */
+.nav-primary{
+	display: block;
+	position: fixed;
+	top: -100%;
+	bottom: 100%;
+	height: 100%;
+	width: 100%;
+	overflow-y: auto;
+	left: 0;
+	right: 0;
+	padding-bottom: 110px;
+	background: #fff;
+	border-top: 10px solid $merit-blue;
+	z-index: 999;
+	transition: all .3s linear;
+	
+	a{
+		font-size: 20px;
+		line-height: 22px;
+		color: $merit-orange;
+		text-transform: uppercase;
+	}
+	.tabs{
+		margin: 20px 10px;
+
+		.tab a{
+			@extend %flexbox;
+		    align-items: center;
+		    text-align: center;
+			justify-content: center;	
+			width: 100%;
+			height: 64px;
+			margin-bottom: 15px;
+			padding: 0 6px;
+			border: 4px solid;
+			white-space: normal;
+			text-transform: uppercase;
+			cursor: pointer;
+			transition: all .3s ease;
+			font-size: 17px;
+			line-height: 1.1;
+			height: 64px;
+			color: #fff;
+			
+			@include responsive(tablet){
+				font-size: 14px;
+			}
+			@include responsive(mobile){
+				height: auto;
+				padding: 8px 20px;
+				
+			}
+		}
+		.tab.orange a{
+			background: $merit-orange;
+			border-color: $merit-orange;
+		}
+		.tab.orange a:hover{
+			background: #fff;
+			color: $merit-orange;
+		}
+		.tab.yellow a{
+			background: $merit-yellow;
+			border-color: $merit-yellow;
+		}
+		.tab.yellow a:hover{
+			background: #fff;
+			color: $merit-yellow;
+		}
+		.tab.green a{
+			background: $merit-green;
+			border-color: $merit-green;
+		}
+		.tab.green a:hover{
+			background: #fff;
+			color: $merit-green;
+		}
+		.tab.maroon a{
+			background: $merit-wine;
+			border-color: $merit-wine;
+		}
+		.tab.maroon a:hover{
+			background: #fff;
+			color: $merit-wine;
+		}
+		@include responsive(mobile){
+			margin: 10px 0;
+		}
+		
+	}
+	/* Tablet/Desktop Navigation Tabs */
+	
+	.columns{
+		margin: 0 10px;
+		
+		h2{
+			margin: 0;
+			border-bottom: 4px solid $merit-orange;
+			color: $merit-orange;
+			font-size: 24px;
+			padding-bottom: 4px;
+			position: relative;
+
+		}
+		ul{
+			list-style-type: none;
+			margin: 10px 0;
+			padding: 0;
+			
+			li{
+				padding: 4px 0;
+			}
+			a{
+				display: block;
+				color: $merit-blue;
+				
+				&:hover{
+					color: $merit-green;
+				}
+				@include responsive(tablet){
+					font-size: 17px;
+				}
+			}
+			&.active{
+				display: block !important;
+			}
+		}
+		.double ul{
+			column-count: 3;
+		}
+		
+		@include responsive(mobile){
+			padding: 0 0px 22px;
+			
+			h2{
+				cursor: pointer;
+				font-size: 18px;
+				color: $merit-orange;
+				margin-bottom: 15px;
+				display: block;
+				
+				.toggle{
+					font-size: 22px;
+					line-height: 18px;
+					float: right;
+					
+					&:after{
+						content: "+";
+					}
+				}
+				&.open .toggle:after{
+					content: "-";
+					padding-right: 3px;
+					font-size: 24px;
+				}
+
+			}
+			ul{
+				display: none;
+				list-style-type: square;
+				margin: 0;
+				padding: 0 20px;
+				color: $merit-blue;
+				column-count: 1 !important;
+				
+				li{ 
+					padding: 2px 0px;
+				}
+				
+				&.open{
+					display: block;
+					margin-bottom:20px;
+				}
+			}
+			a{
+				display: block;
+				color: $merit-blue;
+				text-transform: none;
+				font-size: 17px;
+				padding: 6px 0;
+			}
+		}
+	}
+	
+	.footer_links{
+		list-style-type: none;
+		margin: 30px 25px;
+		padding: 30px 0 0;
+		border-top: 4px solid $merit-orange;
+		text-align: center;
+		
+		li{
+			display: inline-block;
+			line-height: 0px;
+			padding: 8px 25px;
+			border-left: 2px solid $merit-orange;		
+			
+			&:nth-child(1){
+				border-left: 0px;
+			}
+			
+			a{
+				line-height: 0px;
+				margin-bottom: 0px;
+				
+				@include responsive(mobile){
+					padding: 8px 25px;
+					font-size: 18px;
+					display: block;
+					line-height: 24px;
+				}
+				
+				&:hover{
+					color: $merit-wine;
+				}
+			}
+			@include responsive(mobile){
+				display: block;
+				border: none;	
+				padding: 0;
+				line-height: initial;
+				border-bottom: 2px solid $merit-orange;
+				font-weight: $merit-font-bold;
+			}
+		}
+		@include responsive(mobile){
+			border-top: 2px solid $merit-orange;
+			padding-top: 0px;
+			margin: 0 15px 0 15px;
+		}
+		
+		li.mobile{
+			display:none;
+			
+			@include responsive(mobile){
+				display: block;	
+				border-color: $merit-blue;
+				
+				a{
+					color: $merit-blue;
+				}
+				&.donate{
+					border-color: $merit-green;
+					
+					a{
+						color: $merit-green;
+					}
+				}
+			}
+		}
+
+	}
+}
+.nav-primary.active{
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+}
+
+/* --- Menu Icon Styles --- */
+a#menu-icon{
+	position: absolute;
+	top: 0; left: 0; bottom: 0;
+	display: block;
+	height: 100px;
+	width: 80px;
+	background-color: $merit-blue;
+	text-align: center;
+	padding: 60px 15px 0;
+	color: #fff;
+	font-size: 17px;
+	font-weight: 200;
+	transition: padding .3s linear .15s, height .3s linear 0s;
+	
+	span{
+		transition: all 0s 0.3s;
+	}
+	span,
+	span:before,
+	span:after{
+		content: '';
+		display: block;
+		height: 7px;
+		width: 50px;
+		background: #fff;
+		border-radius: 3px;
+		position: absolute;
+		top: 35px;
+		transition-duration: 0.3s, 0.3s;
+	}
+	span:before{
+		top: -14px;
+		transition-property: top, transform;
+	}
+	span:after{
+		top: 14px;
+		transition-property: top, transform;
+	}
+	
+	@include responsive(mobile){
+		height: 70px;
+		padding-top: 40px;
+		span{
+			top: 20px;
+		}
+		span:before{
+			top: -10px;
+		}
+		span:after{
+			top: 10px;
+		}
+	}
+}
+a#menu-icon:after{
+	content:"MENU";
+}
+a#menu-icon.active:after{
+	content:"CLOSE";
+	font-size: 15px;
+}
+header.narrow a#menu-icon{
+	height: 70px;
+	padding-top: 40px; 
+	
+	span{
+		top: 20px;
+	}
+	span:before{
+		top: -10px;
+	}
+	span:after{
+		top: 10px;
+	}
+}
+a#menu-icon.active,
+header.narrow a#menu-icon.active,
+.mobile header a#menu-icon.active{
+	span{
+		background: transparent;
+	}
+	span:before{
+		top: 0;
+		transform: rotate(45deg);
+	}
+	span:after{
+		top: 0;
+		transform: rotate(-45deg);
+	}
+	span:before,
+	span:after{
+		transition-delay: 0s, 0.3s;
+	}
+}
+
+/* --- Utility Button Styles --- */
+.util{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	padding: 10px 20px 10px;
+	text-align: right;
+	
+	a{
+		display: inline-block;
+		color: $merit-blue;
+		font-size: 12px;
+		padding: 5px 5px 10px;
+		text-transform: uppercase;
+		
+		&:hover{
+			color: $merit-orange;
+		}
+		@include responsive(tablet){
+			padding-left: 5px;
+			padding-right: 0;
+			font-size: 11px;
+		}
+	}
+	a.donate{
+		background: $merit-green;
+		color: #fff;
+		padding: 5px 40px;
+		margin-left: auto;
+		text-align: center;
+		font-size: 24px;
+		line-height: 1;
+		border: 2px solid $merit-green;
+		white-space:nowrap;
+		
+		&:hover{
+			background: #fff;
+			color: $merit-green;
+		}
+	}
+		
+	@include responsive(mobile){
+		display: none;
+	}
+
+}
+.google_translate{
+	display: none;
+	
+	a{
+		padding: 0px;
+		text-transform: none;
+		display: inline !important;
+		padding: 0;
+	}
+}
+.mobile .google_translate{
+	margin: 12px 10px;
+}
+
+header.narrow .util{
+	padding: 0px 20px;
+	
+	a{
+		padding: 5px;		
+	}
+	
+	a.donate{
+		padding: 4px 10px;
+		font-size: 20px;
+	}
+	
+}

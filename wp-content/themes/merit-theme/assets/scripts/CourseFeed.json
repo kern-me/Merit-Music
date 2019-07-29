@@ -1,0 +1,2662 @@
+{
+  "Courses": [
+    {
+      "ActiveNetId": 15086,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Advanced Band Plus Woodwind, Brass, Percussion",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e5th - 10th\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eStudents will improve their individual instrument skills in a 55-minute group class and will join a more experienced band ensemble. Students in the Advanced Band may be encouraged to audition for the \u003ci\u003eTuition-free Conservatory.\u003c/i\u003e\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003escales and arpeggios in major and minor keys\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eexpand dynamic range of the instrument\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto count complex rhythms\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto identify common intervals aurally and visually\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto sight read\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto recognize music from various genres and periods\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week and includes \u003cstrong\u003eONE 60 MINUTE BAND CLASS AND ONE 55 MINUTE INSTRUMENTAL MUSIC CLASS \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Oboe",
+          "Id": "oboe"
+        },
+        {
+          "Label": "Clarinet",
+          "Id": "clarinet"
+        },
+        {
+          "Label": "Flute",
+          "Id": "flute"
+        },
+        {
+          "Label": "Bassoon",
+          "Id": "bassoon"
+        },
+        {
+          "Label": "Saxophone",
+          "Id": "saxophone"
+        },
+        {
+          "Label": "Horn",
+          "Id": "horn"
+        },
+        {
+          "Label": "Trumpet",
+          "Id": "trumpet"
+        },
+        {
+          "Label": "Percussion",
+          "Id": "percussion"
+        },
+        {
+          "Label": "Trombone",
+          "Id": "trombone"
+        },
+        {
+          "Label": "Tuba",
+          "Id": "tuba"
+        },
+        {
+          "Label": "High Intermediate",
+          "Id": "high-intermediate"
+        },
+        {
+          "Label": "Euphonium/Baritone",
+          "Id": "euphonium-baritone"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Band",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-02",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "5th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15087,
+          "Title": "Advanced Flute",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13359",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15088,
+          "Title": "Advanced Clarinet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13360",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15089,
+          "Title": "Advanced Saxophone",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13361",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15090,
+          "Title": "Advanced Trumpet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13362",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15091,
+          "Title": "Advanced Low Brass",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13363",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15092,
+          "Title": "Advanced Band Percussion",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13364",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 6
+    },
+    {
+      "ActiveNetId": 15349,
+      "Program": "Early Childhood",
+      "Title": "Ages 0-5 years: Family Class (Spring)",
+      "Description": "\u003cp align=\u0022left\u0022\u003e\u003cfont face=\u0022Arial, Helvetica, sans-serif\u0022 size=\u00222\u0022\u003e\u003cb\u003eFamily Class\u003c/b\u003e\u003cbr\u003e0-5 years with caregiver\u003cbr\u003e45 minutes once-per-week\u003cbr\u003e10-week session\u003c/font\u003e\u003c/p\u003e\u003cp align=\u0022left\u0022\u003e\u003cfont face=\u0022Arial, Helvetica, sans-serif\u0022 size=\u00222\u0022\u003e$200 for 1 child + 1 adult\u003cbr\u003e$100 for each additional child (use code \u0022FAMILY\u0022)\u003cbr\u003e- $20 Discount (for families who choose to participate in the Automatic Re-Enrollment Program, use code \u0022AutoEnroll\u0022)\u003cbr\u003e\u003ci\u003e+ $30 registration fee (per academic year)\u003c/i\u003e\u003c/font\u003e\u003c/p\u003e\u003cp align=\u0022left\u0022\u003e\u003cfont face=\u0022Arial, Helvetica, sans-serif\u0022 size=\u00222\u0022\u003eWhat could be better than laughing and learning together as a family? In this mixed-age class, siblings can enjoy music together along with their grown-ups. Musical activities are designed to engage students across multiple ages which provides children the opportunity to interact with and learn from each other. Learn songs and activities that can be continued at home and build your repertoire of traditional and multi-cultural tunes that are soon to become family favorites. \u003cb\u003eParent/Caregiver attendance required.\u003c/b\u003e\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "Newborn - 18 Months",
+        "18 Months - 3 Years",
+        "3 - 5 Years"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cfont color=\u0022#ff0000\u0022\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003e\u003cem\u003eParent/Caregiver Attendance Required.\u003c/em\u003e\u003c/strong\u003e\u003c/font\u003e \u003c/font\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-04-04",
+      "Course_End": "2019-06-13",
+      "RegistrationDeadline": "2019-03-25",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "4 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15350,
+          "Title": "Family Class - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13622",
+          "Price": 200.0,
+          "Summary": "Thursday @ 10:00 AM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15329,
+      "Program": "Early Childhood",
+      "Title": "Ages: 0-15 months Music Explorers (Spring)",
+      "Description": "\u003cp align=\u0022left\u0022\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eMUSIC EXPLORERS\u003cbr\u003e\u003c/b\u003e\u003c/font\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e0-15 months with caregiver\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e45 minutes once-per-week\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e10-week session\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e$200 Per session\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e-$20 Discount (For families who choose to participate in the Automatic Re-Enrollment Program, use code \u0022AutoEnroll\u0022) \u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: small;\u0022\u003e+ $30 registration fee (per academic year)\u003c/span\u003e\u003c/p\u003e\u003cp align=\u0022left\u0022\u003e\u003cfont size=\u00222\u0022\u003eStimulate your baby\u0027s young mind by exploring movement, rhythm, simple percussion instruments, and high and low sounds.  In Music Explorers, babies are introduced to musical sounds, sensations, and instruments like shakers, tambourines, and drums that help develop motor skills and create strong neural pathways.  Join Merit\u0027s community of parents and caregivers in musical games and activities that introduce music for the first time and learn along with your baby so that you can continue making music at home.\u003cb\u003e  Parent/Caregiver attendance required.\u003c/b\u003e\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "Newborn - 18 Months"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cfont color=\u0022#ff0000\u0022\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003e\u003cem\u003eParent/Caregiver Attendance Required.\u003c/em\u003e\u003c/strong\u003e\u003c/font\u003e \u003c/font\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-03-26",
+      "Course_End": "2019-06-04",
+      "RegistrationDeadline": "2019-03-23",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "1 year 2 months",
+      "Sections": [
+        {
+          "ActiveNetId": 15332,
+          "Title": "Music Explorers - Sec. C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13604",
+          "Price": 200.0,
+          "Summary": "Sunday @ 10:30 AM"
+        },
+        {
+          "ActiveNetId": 15330,
+          "Title": "Music Explorers - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13602",
+          "Price": 200.0,
+          "Summary": "Tuesday @ 11:00 AM"
+        },
+        {
+          "ActiveNetId": 15331,
+          "Title": "Music Explorers - Sec. B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13603",
+          "Price": 200.0,
+          "Summary": "Friday @ 12:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 3
+    },
+    {
+      "ActiveNetId": 15333,
+      "Program": "Early Childhood",
+      "Title": "Ages: 16-23 months Tuneful Toddlers (Spring)",
+      "Description": "\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e\u003cb\u003eTuneful Toddlers\u003c/b\u003e\u003c/span\u003e\u003c/p\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e16-23 months with caregiver\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e45 minutes once-per-week\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e10-week session\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e$200 Per session \u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e-$20 Discount (For families who choose to participate in the Automatic Re-Enrollment Program, use code \u0022AutoEnroll\u0022) \u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e+ $30 registration fee (per academic year)\u003c/span\u003e\u003c/p\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003ePut your toddler\u0027s energy to good use!  In Tuneful Toddlers, your child will laugh, dance, and bounce to the beat of music from around the world.  Children cooperate with each other as they sing and play simple percussion instruments together, and grown-ups learn new songs, games, and activities to continue music learning at home.  By creating simple rhythms with their bodies and learning songs, nursery rhymes, and movement from our American heritage and world cultures, children develop coordination and motor skills, strengthen spatial reasoning, and increase language and literacy.  Students must be at least 16 months old by the first day of class to participate.  \u003c/span\u003e\u003c/p\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.6667px;\u0022\u003e\u003cb\u003eParent/Caregiver attendance required.\u003c/b\u003e\u003c/span\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "Newborn - 18 Months",
+        "18 Months - 3 Years"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cstrong\u003e\u003cem\u003e\u003cfont color=\u0022#ff0000\u0022 size=\u00222\u0022\u003eParent/Caregiver Attendance Required.\u003c/font\u003e\u003c/em\u003e\u003c/strong\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-03-26",
+      "Course_End": "2019-06-04",
+      "RegistrationDeadline": "2019-03-23",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "1 year 4 months to 1 year 10 months",
+      "Sections": [
+        {
+          "ActiveNetId": 15334,
+          "Title": "Tuneful Toddlers - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13606",
+          "Price": 200.0,
+          "Summary": "Tuesday @ 10:00 AM"
+        },
+        {
+          "ActiveNetId": 15335,
+          "Title": "Tuneful Toddlers - Sec. B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13607",
+          "Price": 200.0,
+          "Summary": "Friday @ 11:00 AM"
+        },
+        {
+          "ActiveNetId": 15336,
+          "Title": "Tuneful Toddlers - Sec. C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13608",
+          "Price": 200.0,
+          "Summary": "Saturday @ 10:00 AM"
+        }
+      ],
+      "Number_Of_Sections": 3
+    },
+    {
+      "ActiveNetId": 15337,
+      "Program": "Early Childhood",
+      "Title": "Ages: 2-3 years Movers \u0026 Groovers (Spring)",
+      "Description": "\u003cfont size=\u00222\u0022\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e\u003cb\u003eMovers \u0026 Groovers\u003c/b\u003e\u003c/span\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e2-3 years with caregiver\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e45 minutes once-per-week\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e10-week session\u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e$200 Per session \u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e-$20 Discount (For families who choose to participate in the Automatic Re-Enrollment Program, use code \u0022AutoEnroll\u0022) \u003cbr\u003e\u003c/span\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e+ $30 registration fee (per academic year)\u003c/span\u003e\u003c/p\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003eMerit\u0027s Movers \u0026 Groovers classes focus on your child\u0027s developing social/emotional and gross motor skills through musical games, listening exercises, and group songs and activities.  You\u0027ll see examples of their cognitive growth as students are able to independently repeat familiar songs in class and have opportunities to practice sharing with friends and classmates.  Explore new instruments and sounds while both you and your student develop friendships with members of your classroom and Merit community.  Students must be at least 2 years old by the first day of class to participate.  \u003c/span\u003e\u003c/p\u003e\u003cp class=\u0022MsoNormal\u0022\u003e\u003cspan style=\u0022font-size: 18.66px;\u0022\u003e\u003cb\u003eParent/Caregiver attendance required.\u003c/b\u003e\u003c/span\u003e\u003c/p\u003e\u003c/font\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "18 Months - 3 Years",
+        "3 - 5 Years"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cstrong\u003e\u003cem\u003e\u003cfont color=\u0022#ff0000\u0022 size=\u00222\u0022\u003eParent/Caregiver Attendance Required.\u003c/font\u003e\u003c/em\u003e\u003c/strong\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-04-04",
+      "Course_End": "2019-06-13",
+      "RegistrationDeadline": "2019-03-23",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "2 years to 3 years 10 months",
+      "Sections": [
+        {
+          "ActiveNetId": 15338,
+          "Title": "Movers \u0026 Groovers - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13610",
+          "Price": 200.0,
+          "Summary": "Thursday @ 11:00 AM"
+        },
+        {
+          "ActiveNetId": 15339,
+          "Title": "Movers \u0026 Groovers - Sec. B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13611",
+          "Price": 200.0,
+          "Summary": "Friday @ 10:00 AM"
+        },
+        {
+          "ActiveNetId": 15340,
+          "Title": "Movers \u0026 Groovers - Sec. C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13612",
+          "Price": 200.0,
+          "Summary": "Saturday @ 11:00 AM"
+        }
+      ],
+      "Number_Of_Sections": 3
+    },
+    {
+      "ActiveNetId": 15342,
+      "Program": "Early Childhood",
+      "Title": "Ages: 3-5 years Music Masters I (Spring)",
+      "Description": "\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eMusic Masters I\u003c/b\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e3-5 years with caregiver\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e45 minutes once-per-week\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e10-week session\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e$200 Per session \u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e-$20 Discount (For families who choose to participate in the Automatic Re-Enrollment Program, use code \u0022AutoEnroll\u0022) \u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+ $30 registration fee (per academic year)\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003ePrepare to be amazed at what your young musician can do!  In Music Masters I, students will learn the components of timbre, rhythm, pitch, beat, and style through your child\u0027s love of music, art, and storytelling.  In this imaginative class, your child will explore beat and rhythm, experiment with percussion instruments, and play and sing along to music from world cultures.  Children and their parents/caregivers cooperate in class, and teachers discuss ways to continue learning outside the classroom as well.  Students must be at least 3 years old by the first day of class to participate. \u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eParent/Caregiver attendance required.\u003c/b\u003e\u003c/font\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "18 Months - 3 Years",
+        "3 - 5 Years"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cstrong\u003e\u003cem\u003e\u003cfont color=\u0022#ff0000\u0022 size=\u00222\u0022\u003eParent/Caregiver Attendance Required.\u003c/font\u003e\u003c/em\u003e\u003c/strong\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-03-30",
+      "Course_End": "2019-06-15",
+      "RegistrationDeadline": "2019-03-23",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "3 years to 4 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15343,
+          "Title": "Music Masters I - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13615",
+          "Price": 200.0,
+          "Summary": "Saturday @ 9:00 AM"
+        },
+        {
+          "ActiveNetId": 15344,
+          "Title": "Music Masters I - Sec. B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13616",
+          "Price": 200.0,
+          "Summary": "Saturday @ 12:30 PM"
+        }
+      ],
+      "Number_Of_Sections": 2
+    },
+    {
+      "ActiveNetId": 15345,
+      "Program": "Early Childhood",
+      "Title": "Ages: 5-8 years Ukulele and You! (Spring)",
+      "Description": "\u003cp\u003e\u003cb\u003eUkulele \u0026 You!\u003c/b\u003e\u003c/p\u003e\u003cp\u003e5 - 8 years with an adult\u003cbr\u003e60 minutes once-per-week\u003cbr\u003e10-week session\u003c/p\u003e\u003cp\u003eUkuleles are taking the world by storm and it\u0027s time to see how this versatile instrument can make at-home music time even more fun!  In this new adult-child class, grown-ups learn to play the ukulele while the whole classroom community engages with songs, singing games and dances, musical books and instrument exploration.  This class is designed for activities to continue at home to extend learning and family time through music.  Age-appropriate siblings are welcome to attend at a discount rate and your class tuition includes the cost of a high-quality concert-sized ukulele that is yours to keep! Parent/Caregiver attendance required.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003eBeginning Beats!\u003c/b\u003e\u003c/p\u003e\u003cp\u003eFamilies who are new to ukulele classes should enroll in this beginning level class.  \u003c/p\u003e\u003cp\u003e$350 for 1 Adult + 1 Child (includes the cost of 1 ukulele per family)\u003cbr\u003e-$35 Discount (For families who choose to participate in the Automatic Re-    Enrollment Program, use code \u0022AutoEnroll\u0022) \u003cbr\u003e$200 for first additional child (use code \u0022BB1CHILD\u0022)\u003cbr\u003eFREE for second additional child (use code \u0022BB2CHILD\u0022)\u003cbr\u003e\u003ci\u003e+ $30 registration fee (per academic year)\u003c/i\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003eRocking On!\u003c/b\u003e\u003c/p\u003e\u003cp\u003eFamilies who have already completed the beginning ukulele class (Beginning Beats!) should register for this continuing level.\u003c/p\u003e\u003cp\u003e$275 for 1 Adult + 1 Child\u003cbr\u003e-$27.50 Discount (For families who choose to participate in the Automatic Re-    Enrollment Program, use code \u0022AutoEnroll\u0022) \u003cbr\u003e$125 for first additional child (use code \u0022RO1CHILD\u0022)\u003cbr\u003eFREE for second additional child (use code \u0022RO2CHILD\u0022)\u003cbr\u003e+$75 instrument fee (if you do not still own your uke from the Beginning Beats! class)\u003cbr\u003e\u003ci\u003e+ $30 registration fee (per academic year)\u003c/i\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "3 - 5 Years",
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Early Childhood",
+          "Id": "early-childhood"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Early Childhood",
+      "SummerCamp": "false",
+      "Notes": "\u003cstrong\u003e\u003cem\u003e\u003cfont color=\u0022#ff0000\u0022 size=\u00222\u0022\u003eParent/Caregiver Attendance Required.\u003c/font\u003e\u003c/em\u003e\u003c/strong\u003e",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2019-04-06",
+      "Course_End": "2019-06-22",
+      "RegistrationDeadline": "2019-03-23",
+      "RegistrationStart": "2019-02-18",
+      "PriorityRegStart": null,
+      "AgeRange": "5 years to 7 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15347,
+          "Title": "Ukulele and You!: Beginning Beats - Sec. B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13619",
+          "Price": 350.0,
+          "Summary": "Sunday @ 9:00 AM"
+        },
+        {
+          "ActiveNetId": 15346,
+          "Title": "Ukulele and You!: Beginning Beats - Sec. A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13618",
+          "Price": 350.0,
+          "Summary": "Saturday @ 2:30 PM"
+        }
+      ],
+      "Number_Of_Sections": 2
+    },
+    {
+      "ActiveNetId": 14973,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginner Band Plus Woodwind, Brass, Percussion",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGrades: \u003c/b\u003e4th - 8th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eBeginner classes introduce young musicians to their choice of  woodwind, brass, or percussion instruments in a small group setting with like instruments.  Additionally, students will come together and rehearse as a band.\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003eSTUDENTS WILL LEARN:\u003c/strong\u003e\u003c/font\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play the instrument with proper posture, hand position, embouchure and articulation\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto recognize the parts of the musical staff, note names, and time signatures\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto count simple rhythms\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto recognize common musical symbols and define basic vocabulary\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week and includes \u003cstrong\u003eONE 55 MINUTE BAND CLASS AND ONE 60 MINUTE INSTRUMENTAL MUSIC CLASS \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Clarinet",
+          "Id": "clarinet"
+        },
+        {
+          "Label": "Flute",
+          "Id": "flute"
+        },
+        {
+          "Label": "Saxophone",
+          "Id": "saxophone"
+        },
+        {
+          "Label": "Trumpet",
+          "Id": "trumpet"
+        },
+        {
+          "Label": "Percussion",
+          "Id": "percussion"
+        },
+        {
+          "Label": "Trombone",
+          "Id": "trombone"
+        },
+        {
+          "Label": "Euphonium/Baritone",
+          "Id": "euphonium-baritone"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Band",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-02",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-09-29",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "4th to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 14974,
+          "Title": "Beginning Flute",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13246",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14975,
+          "Title": "Beginning Clarinet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13247",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14976,
+          "Title": "Beginning Saxophone",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13248",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14977,
+          "Title": "Beginning Trumpet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13249",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14979,
+          "Title": "Beginning Double Reeds",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13251",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14980,
+          "Title": "Beginning Horn",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13252",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14981,
+          "Title": "Beginning Low Brass",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13253",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 7
+    },
+    {
+      "ActiveNetId": 14961,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginner Guitar (Fall Session)",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e4th - 8th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eGuitar students begin instruction at Merit in small group classes of five to eight students. Classes meet for 55 minutes each week and the small group atmosphere allows for individual attention as well as group learning. \u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003eto identify the parts of the musical staff\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto read notes and rhythms\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play scales, arpeggios and chords in 1st and 2nd position\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto adjust their guitars to play in tune\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE: \u003c/font\u003e\u003c/strong\u003e\u003cspan style=\u0022font-size: small;\u0022\u003eClasses meet once per week (29 weeks)\u003c/span\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Guitar",
+          "Id": "guitar"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Guitar Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-01",
+      "Course_End": "2019-05-20",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "4th to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 14962,
+          "Title": "Beginning Guitar - Section A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13234",
+          "Price": 650.0,
+          "Summary": "Monday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14963,
+          "Title": "Beginning Guitar - Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13235",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 2
+    },
+    {
+      "ActiveNetId": 14948,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginner Piano (Fall Session)",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e1st - 6th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eBeginning Piano students learn to read music, define basic vocabulary terms and begin performing a variety of pieces. \u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN: \u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003eproper posture and hand position\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto recognize parts of the musical staff\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto read rhythms and notes in treble and bass clefs\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cstrong\u003e55 MINUTES \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Piano Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-01",
+      "Course_End": "2019-05-20",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 6th",
+      "Sections": [
+        {
+          "ActiveNetId": 14949,
+          "Title": "Beginning Piano - Section A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13221",
+          "Price": 650.0,
+          "Summary": "Monday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14950,
+          "Title": "Beginning Piano - Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13222",
+          "Price": 650.0,
+          "Summary": "Monday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14951,
+          "Title": "Beginning Piano - Section C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13223",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14952,
+          "Title": "Beginning Piano - Section D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13224",
+          "Price": 650.0,
+          "Summary": "Friday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14953,
+          "Title": "Intermediate Group Piano - Section E",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13225",
+          "Price": 650.0,
+          "Summary": "Friday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14954,
+          "Title": "Beginning Piano - Section F",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13226",
+          "Price": 650.0,
+          "Summary": "Friday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 14955,
+          "Title": "Beginning Piano - Section G",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13227",
+          "Price": 650.0,
+          "Summary": "Friday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 7
+    },
+    {
+      "ActiveNetId": 14959,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginner Voice Plus Mixed Chorus",
+      "Description": "\u003cfont size=\u00222\u0022 style=\u0022\u0022\u003e\u003cb\u003eGrades: 5th-10th\u003c/b\u003e\u003c/font\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003eStudents have the opportunity to develop their voice as an instrument and deepen their musical studies through Merit\u0027s unique Vocal Curriculum. Students will also attend Mixed Chorus which is a mandatory class for all Merit voice students (see Mixed Chorus for more details). \u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003eStudents will learn:\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+ to sing selected intervals and scales\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+to identify different time signatures, key signatures, dynamics and musical vocabulary\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+to identify the passagio (or break) in their voice\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+to produce a good vocal tone at all ranges and dynamic levels\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+to sing repertoire in two part harmony\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont size=\u00222\u0022\u003e+to sing English, Latin, Spanish, and Italian\u003cbr\u003e\u003cbr\u003eClasses meet once per week (29 weeks)\u003c/font\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Voice/Choir",
+          "Id": "voice-choir"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Choir Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-22",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "5th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 14959,
+          "Title": "Beginner Voice Plus Mixed Chorus",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13231",
+          "Price": 755.0,
+          "Summary": "Wednesday @ 5:30 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 14970,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginning Suzuki-Alegre Strings",
+      "Description": "\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cb\u003eAGES: \u003c/b\u003e4 - 7 years\u003c/font\u003e\u003cdiv\u003e\u003ci\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eStudents must be 4 years old by October 1, 2018\u003c/font\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cspan style=\u0022font-weight: bold;\u0022\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eThis class requires students to \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/music-classes-and-private-lessons/private-lessons/\u0022 target=\u0022_self\u0022\u003eregister for weekly private lessons\u003c/a\u003e\u003c/span\u003e in addition to the 45-minute group class.\u003c/font\u003e\u003c/span\u003e\u003c/div\u003e\u003cdiv\u003e\u003cspan style=\u0022font-weight: bold;\u0022\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/span\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eThese classes provide the necessary building blocks for young musicians interested in playing stringed instruments. Classes are large enough for students to play as a group, yet small enough for beginners to receive the individual attention they need. Parent attendance is required. It\u0027s a fun, collaborative environment!\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eStudents will learn:\u003c/font\u003e\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003ethe proper way to hold their instrument and bow, while beginning to play their first notes\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003ebasic ensemble and listening skills\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eto apply their instrumental technique and musical knowledge through Suzuki repertoire and Latin folk music\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003e\u003cb\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eRequirements: \u003c/font\u003e\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eNew Suzuki- Alegre Strings families are required to participate in a training class (dates TBD).\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eNote: Children should not attend the training session, but a fun musical activity will be available to those who have parents attending. Children are not required to attend this activity. \u003c/font\u003e\u003c/i\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "3 - 5 Years",
+        "5 - 7 Years",
+        "1st Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Suzuki-Alegre Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-15",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "4 years to 6 years",
+      "Sections": [
+        {
+          "ActiveNetId": 14972,
+          "Title": "Cello Pre-Twinkle Suzuki-Alegre Strings",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13244",
+          "Price": 545.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14971,
+          "Title": "Violin Pre-Twinkle Suzuki-Alegre Strings Section A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13243",
+          "Price": 545.0,
+          "Summary": "Wednesday @ 5:15 PM"
+        },
+        {
+          "ActiveNetId": 15264,
+          "Title": "Violin Pre-Twinkle Suzuki-Alegre Strings Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13536",
+          "Price": 545.0,
+          "Summary": "Wednesday @ 5:15 PM"
+        }
+      ],
+      "Number_Of_Sections": 3
+    },
+    {
+      "ActiveNetId": 14965,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Beginning Traditional Strings",
+      "Description": "\u003cb\u003eGrades:\u003c/b\u003e K-5th\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eThese classes provide the necessary building blocks for young musicians interested in playing stringed instruments. classes are large enough for students to play as a group, yet small enough for beginners to receive the individual attention they need. It\u0027s a fun, collaborate environment.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn: \u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003ethe proper way to hold their instrument and bow, while beginning to play their first notes\u003c/li\u003e\u003cli\u003eto read notes and rhythms on the staff\u003c/li\u003e\u003cli\u003eto apply their instrumental technique and musical knowledge through basic repertoire\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        }
+      ],
+      "Level": "Beginner",
+      "NoInternetReg": 0,
+      "Category": "Traditional Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-15",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "Kindergarten to 5th",
+      "Sections": [
+        {
+          "ActiveNetId": 14966,
+          "Title": "Beginning Cello - Section A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13238",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14967,
+          "Title": "Beginning Violin - Section A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13239",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 14968,
+          "Title": "Beginning Violin - Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13240",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 14969,
+          "Title": "Beginning Violin - Section C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13241",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 4
+    },
+    {
+      "ActiveNetId": 15258,
+      "Program": "Merit Music in Communities",
+      "Title": "Chicago Academy Advanced Violin D",
+      "Description": "",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-05",
+      "Course_End": "2019-06-14",
+      "RegistrationDeadline": "2018-10-31",
+      "RegistrationStart": "2018-09-14",
+      "PriorityRegStart": null,
+      "AgeRange": "2nd to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 15258,
+          "Title": "Chicago Academy Advanced Violin D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13530",
+          "Price": 475.0,
+          "Summary": "Friday @ 4:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15255,
+      "Program": "Merit Music in Communities",
+      "Title": "Chicago Academy Beginning Violin A",
+      "Description": "",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-09",
+      "Course_End": "2019-05-28",
+      "RegistrationDeadline": "2018-10-31",
+      "RegistrationStart": "2018-09-14",
+      "PriorityRegStart": null,
+      "AgeRange": "2nd to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 15255,
+          "Title": "Chicago Academy Beginning Violin A",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13527",
+          "Price": 475.0,
+          "Summary": "Tuesday @ 3:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15257,
+      "Program": "Merit Music in Communities",
+      "Title": "Chicago Academy Beginning Violin C",
+      "Description": "",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-05",
+      "Course_End": "2019-06-14",
+      "RegistrationDeadline": "2018-10-31",
+      "RegistrationStart": "2018-09-14",
+      "PriorityRegStart": null,
+      "AgeRange": "2nd to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 15257,
+          "Title": "Chicago Academy Beginning Violin C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13529",
+          "Price": 475.0,
+          "Summary": "Friday @ 3:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15256,
+      "Program": "Merit Music in Communities",
+      "Title": "Chicago Academy Violin B",
+      "Description": "",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-09",
+      "Course_End": "2019-05-28",
+      "RegistrationDeadline": "2018-10-31",
+      "RegistrationStart": "2018-09-14",
+      "PriorityRegStart": null,
+      "AgeRange": "2nd to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 15256,
+          "Title": "Chicago Academy Violin B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13528",
+          "Price": 475.0,
+          "Summary": "Tuesday @ 4:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 14956,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Children\u0027s Choir",
+      "Description": "\u003cb\u003eGrades: \u003c/b\u003eK-4th\u003cdiv\u003e\u003cbr\u003e\u003cdiv\u003eMerit\u0027s Children\u0027s Choir is great for students who want to begin using their voice as an instrument. Children\u0027s Choir does not require prior singing experience and can be added to any program or purchased as a stand-alone class. Students must be at least 6 years old by October 1, 2018 to enroll.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003eto use proper vocal technique including posture, breathing and vowel shape\u003c/li\u003e\u003cli\u003eto sing in solfege (do-re-mi)\u003c/li\u003e\u003cli\u003eto count rhythms\u003c/li\u003e\u003cli\u003eto sing in unison and harmony\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003e\u003cb\u003eSchedule: \u003c/b\u003eClasses meet once per week for 60 minutes (29 weeks)\u003cbr\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [],
+      "Instruments": [
+        {
+          "Label": "Voice/Choir",
+          "Id": "voice-choir"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Choir Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-15",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": null,
+      "AgeRange": "Kindergarten to 4th",
+      "Sections": [
+        {
+          "ActiveNetId": 14957,
+          "Title": "Children\u0027s Choir - Fall Session",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13229",
+          "Price": 180.0,
+          "Summary": "Wednesday @ 5:30 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15254,
+      "Program": "Merit Music in Communities",
+      "Title": "El Valor Comunidad Beginning Bass",
+      "Description": "\u003cb\u003eAges: 6-15 yrs\u003c/b\u003e\u003cdiv\u003eOpen to students interested in learning the bass at \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/merit-music-communities/comunidad-de-alegre-strings/\u0022 target=\u0022_self\u0022\u003eEl Valor Comunidad.\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-11-06",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-11-30",
+      "RegistrationStart": "2018-10-01",
+      "PriorityRegStart": null,
+      "AgeRange": "6 years to 14 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15254,
+          "Title": "El Valor Comunidad Beginning Bass",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13526",
+          "Price": null,
+          "Summary": "Tuesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15253,
+      "Program": "Merit Music in Communities",
+      "Title": "El Valor Comunidad Beginning Cello",
+      "Description": "\u003cb\u003eAges: 6-9 yrs\u003c/b\u003e\u003cdiv\u003eOpen to students interested in learning the cello at \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/merit-music-communities/comunidad-de-alegre-strings/\u0022 target=\u0022_self\u0022\u003eEl Valor Comunidad\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-11-06",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-11-30",
+      "RegistrationStart": "2018-10-01",
+      "PriorityRegStart": null,
+      "AgeRange": "6 years to 8 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15253,
+          "Title": "El Valor Comunidad Beginning Cello",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13525",
+          "Price": null,
+          "Summary": "Tuesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15252,
+      "Program": "Merit Music in Communities",
+      "Title": "El Valor Comunidad Beginning Viola",
+      "Description": "\u003cb\u003eAges: 6-9 yrs\u003c/b\u003e\u003cdiv\u003eOpen to students interested in learning the viola at \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/merit-music-communities/comunidad-de-alegre-strings/\u0022 target=\u0022_self\u0022\u003eEl Valor Comunidad\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-11-06",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-11-30",
+      "RegistrationStart": "2018-10-01",
+      "PriorityRegStart": null,
+      "AgeRange": "6 years to 8 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15252,
+          "Title": "El Valor Comunidad Beginning Viola",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13524",
+          "Price": null,
+          "Summary": "Tuesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15251,
+      "Program": "Merit Music in Communities",
+      "Title": "El Valor Comunidad Beginning Violin",
+      "Description": "\u003cb\u003eAges: 6-9 yrs\u003c/b\u003e\u003cdiv\u003eOpen to students interested in learning the violin at \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/merit-music-communities/comunidad-de-alegre-strings/\u0022 target=\u0022_self\u0022\u003eEl Valor Comunidad\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-11-06",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-11-30",
+      "RegistrationStart": "2018-10-01",
+      "PriorityRegStart": null,
+      "AgeRange": "6 years to 8 years",
+      "Sections": [
+        {
+          "ActiveNetId": 15251,
+          "Title": "El Valor Comunidad Beginning Violin",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13523",
+          "Price": null,
+          "Summary": "Tuesday @ 6:40 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15250,
+      "Program": "Merit Music in Communities",
+      "Title": "El Valor Comunidad Returning Students",
+      "Description": "\u003cb\u003eGrades: 1st- 10th\u003c/b\u003e\u003cdiv\u003eOpen to students previously enrolled in the 17-18 Academic Year or 2018 Summer Session at \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/merit-music-communities/comunidad-de-alegre-strings/\u0022 target=\u0022_self\u0022\u003eEl Valor Comunidad\u003c/a\u003e\u003c/span\u003e. \u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Merit Music in Communities",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2018-11-06",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-11-30",
+      "RegistrationStart": "2018-10-01",
+      "PriorityRegStart": null,
+      "AgeRange": "1st to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15250,
+          "Title": "El Valor Comunidad Returning Students",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13522",
+          "Price": null,
+          "Summary": "Tuesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15164,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "High Intermediate Group Piano + Private Lessons",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e1st - 10th\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eStudents enrolling in this course must also register for weekly private lessons - \u003cspan\u003e\u003ca href=\u0022https://meritmusic.org/music-classes-and-private-lessons/private-lessons/\u0022 target=\u0022_self\u0022\u003eRegister here.\u003c/a\u003e\u003c/span\u003e Prices may vary depending on duration of the class (90-minutes). \u003c/font\u003e\u003c/strong\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eOur faculty challenges students in these classes with more complex piano repertoire and musical concepts.  Students learn musicianship and instrumental technique, while building knowledge and discipline on their way to becoming a poised musician.  An average of five to six students per class provides a group experience while allowing for individual attention.\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003eSTUDENTS WILL LEARN:\u003c/strong\u003e\u003c/font\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003emajor and minor key signatures and to incorporate their knowledge through scales and arpeggios\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ecomplex rhythms\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ethe use of pedals\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cb\u003e90\u003c/b\u003e\u003cstrong\u003e MINUTES\u003c/strong\u003e (29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        },
+        {
+          "Label": "High Intermediate",
+          "Id": "high-intermediate"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Piano Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15166,
+          "Title": "High Intermediate Group Piano- Sec M (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13438",
+          "Price": 880.0,
+          "Summary": "Monday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15169,
+          "Title": "High Intermediate Group Piano- Sec V (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13441",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15171,
+          "Title": "High Intermediate Group Piano- Sec U (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13443",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15167,
+          "Title": "High Intermediate Group Piano- Sec T (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13439",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15172,
+          "Title": "High Intermediate Group Pno- Sec EE (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13444",
+          "Price": 880.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15170,
+          "Title": "High Intermediate Group Pno - Sec NN (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13442",
+          "Price": 880.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15173,
+          "Title": "High Intermediate Group Pno - Sec OO (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13445",
+          "Price": 880.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15165,
+          "Title": "High Intermediate Group Pno- Sec PP (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13437",
+          "Price": 650.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15168,
+          "Title": "High Intermediate Group Pno- Sec MM (PL Required)",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13440",
+          "Price": 880.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 9
+    },
+    {
+      "ActiveNetId": 15076,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "High Intermediate Guitar Group Classes",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES:\u003c/b\u003e 6th - 10th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eAs students advance through the program, they will have the opportunity to expand their musical studies in an extended class that focuses on more advanced techniques. \u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play scales and arpeggios in major and minor keys\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play, major, minor, and seventh chords\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play guitar repertoire in a variety of styles from different genres of music\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto improvise melodies over a series of chord changes\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto identify common intervals aurally and visually\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cb\u003e90\u003c/b\u003e\u003cstrong\u003e MINUTES \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Guitar",
+          "Id": "guitar"
+        },
+        {
+          "Label": "High Intermediate",
+          "Id": "high-intermediate"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Guitar Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-02",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "6th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15077,
+          "Title": "High Intermediate Guitar Group - Section J",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13349",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 15121,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "High Intermediate Suzuki Alegre Strings +Orchestra",
+      "Description": "\u003cb\u003eGrades:\u003c/b\u003e 4th-10th\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cdiv\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eThis class requires students to \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/music-classes-and-private-lessons/private-lessons/\u0022 target=\u0022_self\u0022\u003eregister for weekly private lessons\u003c/a\u003e\u003c/span\u003e in addition to the 90-minute group class.\u003c/font\u003e\u003c/strong\u003e\u003cdiv\u003e\u003cbr\u003e\u003cdiv\u003eMost students will have completed at least 4 years of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eIn these most advanced classes, students will continue learning together through the Suzuki method and prepare to audition for the Alice S. Pfaelzer Tuition-free Conservatory. Students continue their orchestral training each week, while attending a longer, more intensive instrumental music class designed to enhance instrumental technique, musical knowledge and musical skills. Class sizes remain small and personal while students work closely with our highly qualified and energetic string teachers. Students will showcase their skills in the winter and spring concerts as well as Merit\u0027s annual StringTacular Concert in the spring. Parent attendance is required.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003escales and arpeggios in major, natrual minor keys\u003c/li\u003e\u003cli\u003eeffective vibrato and advanced fingerings and positions\u003c/li\u003e\u003cli\u003ea more advanced approach to bow technique that incorporates double stops, multiple-note slurs and off-the-string articulations\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003eClasses meet once per week and includes a 90-minute group class and one 60-minute orchestra (29 weeks).\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        },
+        {
+          "Label": "High Intermediate",
+          "Id": "high-intermediate"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Suzuki-Alegre Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "4th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15122,
+          "Title": "High Intermediate Suzuki Alegre Violin I+Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13394",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15123,
+          "Title": "High Intermediate Suzuki Alegre Violin J+Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13395",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15124,
+          "Title": "High Intermediate Suzuki Alegre Violin H+Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13396",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15125,
+          "Title": "High Intermediate Suzuki Alegre Cello D +Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13397",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15126,
+          "Title": "High Intermediate Suzuki Alegre Viola B+Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13398",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 5
+    },
+    {
+      "ActiveNetId": 15127,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "High Intermediate Traditional Strings + Orchestra",
+      "Description": "\u003cb\u003eGrades: \u003c/b\u003e5th-9th\u003cdiv\u003e\u003ci\u003e\u003cbr\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003eMost students will have completed at least 4 years of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003e\u003cbr\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003eFinal preparations for entry into the Alice S. Pfaelzer Tuition-free Conservatory! Students continue their orchestral training each week, while attending a longer, more intensive instrumental music class designed to enhance instrumental technique, musical knowledge and musical skills. Class sizes remain small and personal and students work closely with our highly qualified and energetic string teachers. Students will showcase their skills in Merit\u0027s winter and spring concerts.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003escales and arpeggios in major, natural minor keys\u003c/li\u003e\u003cli\u003eeffective vibrato\u003c/li\u003e\u003cli\u003eadvanced fingerings and positions\u003c/li\u003e\u003cli\u003ea more advanced approach to bow technique that incorporates double stops, multiple note slurs and off-the-string articulations\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\u003cdiv\u003eClasses meet once per week for 2.5 hours (29 weeks)\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        },
+        {
+          "Label": "High Intermediate",
+          "Id": "high-intermediate"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": 0,
+      "Category": "Traditional Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "5th to 9th",
+      "Sections": [
+        {
+          "ActiveNetId": 15128,
+          "Title": "High Intermediate Traditional Violin K + Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13400",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15129,
+          "Title": "High Intermediate Traditional Violin L + Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13401",
+          "Price": 990.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 2
+    },
+    {
+      "ActiveNetId": 15079,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Band Plus Woodwind, Brass, Percussion",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e5th - 10th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eStudents will improve their individual instrument skills in a  55-minute group class and will join a more experienced band ensemble. Students in the Advanced Band may be encouraged to audition for the \u003ci\u003eTuition-free Conservatory.\u003c/i\u003e\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003escales and arpeggios in major and minor keys\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eexpand dynamic range of the instrument\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto count complex rhythms\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto identify common intervals aurally and visually\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto sight read\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto recognize music from various genres and periods\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003c/font\u003e \u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week and includes \u003cstrong\u003eONE 60 MINUTE BAND CLASS AND ONE 55 MINUTE INSTRUMENTAL MUSIC CLASS \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Oboe",
+          "Id": "oboe"
+        },
+        {
+          "Label": "Clarinet",
+          "Id": "clarinet"
+        },
+        {
+          "Label": "Flute",
+          "Id": "flute"
+        },
+        {
+          "Label": "Bassoon",
+          "Id": "bassoon"
+        },
+        {
+          "Label": "Saxophone",
+          "Id": "saxophone"
+        },
+        {
+          "Label": "Horn",
+          "Id": "horn"
+        },
+        {
+          "Label": "Trumpet",
+          "Id": "trumpet"
+        },
+        {
+          "Label": "Percussion",
+          "Id": "percussion"
+        },
+        {
+          "Label": "Trombone",
+          "Id": "trombone"
+        },
+        {
+          "Label": "Tuba",
+          "Id": "tuba"
+        },
+        {
+          "Label": "Euphonium/Baritone",
+          "Id": "euphonium-baritone"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Band",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-02",
+      "Course_End": "2019-05-14",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "5th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15080,
+          "Title": "Intermediate Flute",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13352",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15081,
+          "Title": "Intermediate Clarinet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13353",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15082,
+          "Title": "Intermediate Saxophone",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13354",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15083,
+          "Title": "Intermediate Trumpet",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13355",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15084,
+          "Title": "Intermediate Low brass",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13356",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15085,
+          "Title": "Intermediate Percussion",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13357",
+          "Price": 755.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 6
+    },
+    {
+      "ActiveNetId": 15133,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Group Piano (55 min)",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e1st - 10th\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003ePrices may vary depending on duration of the class (55-minutes). \u003c/font\u003e\u003c/strong\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition.\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eOur faculty challenges students in these classes with more complex piano repertoire and musical concepts.  Students learn musicianship and instrumental technique, while building knowledge and discipline on their way to becoming a poised musician.  An average of five to six students per class provides a group experience while allowing for individual attention.\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003eSTUDENTS WILL LEARN:\u003c/strong\u003e\u003c/font\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003emajor and minor key signatures and to incorporate their knowledge through scales and arpeggios\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ecomplex rhythms\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ethe use of pedals\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cstrong\u003e55 MINUTES\u003c/strong\u003e (30 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Piano Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-01",
+      "Course_End": "2019-05-20",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15134,
+          "Title": "Intermediate Group Piano - Section I",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13406",
+          "Price": 650.0,
+          "Summary": "Monday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15138,
+          "Title": "Intermediate Group Piano - Section H",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13410",
+          "Price": 650.0,
+          "Summary": "Monday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15136,
+          "Title": "Intermediate Group Piano - Section N",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13408",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15139,
+          "Title": "Intermediate Group Piano - Section P",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13411",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15140,
+          "Title": "Intermediate Group Piano - Section O",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13412",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15137,
+          "Title": "Intermediate Group Piano - Section Z",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13409",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15143,
+          "Title": "Intermediate Group Piano - Section W",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13415",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15147,
+          "Title": "Intermediate Group Piano - Section X",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13419",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15149,
+          "Title": "Intermediate Group Piano - Section Y",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13421",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15135,
+          "Title": "Intermediate Group Piano - Section JJ",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13407",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15144,
+          "Title": "Intermediate Group Piano - Section II",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13416",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15146,
+          "Title": "Intermediate Group Piano - Section HH",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13418",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15148,
+          "Title": "Intermediate Group Piano - Section GG",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13420",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15141,
+          "Title": "Intermediate Group Piano - Section SS",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13413",
+          "Price": 650.0,
+          "Summary": "Friday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15142,
+          "Title": "Intermediate Group Piano - Section TT",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13414",
+          "Price": 650.0,
+          "Summary": "Friday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15145,
+          "Title": "Intermediate Group Piano - Section QQ",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13417",
+          "Price": 650.0,
+          "Summary": "Friday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15150,
+          "Title": "Intermediate Group Piano - Section RR",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13422",
+          "Price": 650.0,
+          "Summary": "Friday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 17
+    },
+    {
+      "ActiveNetId": 15151,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Group Piano (90 min)",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e1st - 10th\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003ePrices may vary depending on duration of the class (90-minutes). \u003c/font\u003e\u003c/strong\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition.\u003c/a\u003e\u003c/span\u003e\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eOur faculty challenges students in these classes with more complex piano repertoire and musical concepts.  Students learn musicianship and instrumental technique, while building knowledge and discipline on their way to becoming a poised musician.  An average of five to six students per class provides a group experience while allowing for individual attention.\u003c/font\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cstrong\u003eSTUDENTS WILL LEARN:\u003c/strong\u003e\u003c/font\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003emajor and minor key signatures and to incorporate their knowledge through scales and arpeggios\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ecomplex rhythms\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003ethe use of pedals\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cb\u003e90\u003c/b\u003e\u003cstrong\u003e MINUTES\u003c/strong\u003e (29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Piano Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-15",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15156,
+          "Title": "Intermediate Group Piano - Section J",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13428",
+          "Price": 880.0,
+          "Summary": "Monday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15159,
+          "Title": "Intermediate Group Piano - Section K",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13431",
+          "Price": 880.0,
+          "Summary": "Monday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15162,
+          "Title": "Intermediate Group Piano - Section L",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13434",
+          "Price": 880.0,
+          "Summary": "Monday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15157,
+          "Title": "Intermediate Group Piano - Section S",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13429",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15158,
+          "Title": "Intermediate Group Piano - Section Q",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13430",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15163,
+          "Title": "Intermediate Group Piano - Section R",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13435",
+          "Price": 880.0,
+          "Summary": "Tuesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15152,
+          "Title": "Intermediate Group Piano - Section AA",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13424",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15153,
+          "Title": "Intermediate Group Piano - Section CC",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13425",
+          "Price": 880.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15155,
+          "Title": "Intermediate Group Piano - Section DD",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13427",
+          "Price": 880.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15160,
+          "Title": "Intermediate Group Piano - Section BB",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13432",
+          "Price": 880.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15154,
+          "Title": "Intermediate Group Piano - Section LL",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13426",
+          "Price": 880.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15161,
+          "Title": "Intermediate Group Piano - Section KK",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13433",
+          "Price": 880.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15242,
+          "Title": "Intermediate Group Piano - Section UU",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13514",
+          "Price": 880.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 13
+    },
+    {
+      "ActiveNetId": 15069,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Guitar Group Classes",
+      "Description": "\u003cp\u003e\u003cfont size=\u00222\u0022\u003e\u003cb\u003eGRADES: \u003c/b\u003e4th - 10th\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eAvailable to students via teacher recommendation or placement audition.\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eAfter roughly one year in the program, faculty challenge students advance to further develop technique, musical skills and knowledge.\u003c/font\u003e\u003c/p\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSTUDENTS WILL LEARN:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cul\u003e  \u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play scales and arpeggios in major and minor keys\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play, major, minor, and seventh chords\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto play guitar repertoire in a variety of styles from different genres of music\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto improvise melodies over a series of chord changes\u003c/font\u003e   \u003c/li\u003e\u003cli\u003e\u003cfont size=\u00222\u0022\u003eto identify common intervals aurally and visually\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e  \u003cp\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eSCHEDULE:\u003c/font\u003e\u003c/strong\u003e\u003c/p\u003e  \u003cp\u003e\u003cfont size=\u00222\u0022\u003eClasses meet once per week for \u003cstrong\u003e55 MINUTES \u003c/strong\u003e(29 weeks)\u003c/font\u003e\u003c/p\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Guitar",
+          "Id": "guitar"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Guitar Program",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-01",
+      "Course_End": "2019-05-20",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "4th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15070,
+          "Title": "Intermediate Guitar - Section D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13342",
+          "Price": 650.0,
+          "Summary": "Monday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15071,
+          "Title": "Intermediate Guitar - Section E",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13343",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15072,
+          "Title": "Intermediate Guitar - Section F",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13344",
+          "Price": 650.0,
+          "Summary": "Tuesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15073,
+          "Title": "Intermediate Guitar - Section G",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13345",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15074,
+          "Title": "Intermediate Guitar - Section H",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13346",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15075,
+          "Title": "Intermediate Guitar - Section I",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13347",
+          "Price": 650.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 6
+    },
+    {
+      "ActiveNetId": 15112,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Suzuki Alegre Strings Plus Orchestra",
+      "Description": "Grades: 1st-10th\u003cdiv\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/strong\u003e\u003c/div\u003e\u003cdiv\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eThis class requires students to \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/music-classes-and-private-lessons/private-lessons/\u0022 target=\u0022_self\u0022\u003eregister for weekly private lessons\u003c/a\u003e\u003c/span\u003e in addition to the 55-minute group class.\u003c/font\u003e\u003c/strong\u003e\u003cdiv\u003e\u003cbr\u003e\u003cdiv\u003eMost students will have completed at least 2 years of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eIn these performance-based classes, students will continue learning together through the Suzuki method in instrumental music classes in preparation for playing in large ensemble. Students will showcase their skills at Merit\u0027s annual StringTacular Concert in the spring. Parent Attendance is required.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003eAdvanced Suzuki-Alegre Strings repertoire\u003c/li\u003e\u003cli\u003eAdvanced technique on the instrument\u003c/li\u003e\u003cli\u003eto become acquainted with reading more difficult rhythms and key signatures\u003c/li\u003e\u003cli\u003eadvanced ensemble skills\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003eClasses meet once per week and includes a 55-minute group class and one 60-minute orchestra (29 weeks).\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Suzuki-Alegre Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15113,
+          "Title": "Intermediate Suzuki Alegre Violin F Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13385",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15114,
+          "Title": "Intermediate Suzuki Alegre Viola A Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13386",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15115,
+          "Title": "Intermediate Suzuki Alegre Cello C Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13387",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15116,
+          "Title": "Intermediate Suzuki Alegre Bass Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13388",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 4
+    },
+    {
+      "ActiveNetId": 15101,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Suzuki-Alegre Strings Group Class",
+      "Description": "Grades: K-7th\u003cdiv\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/strong\u003e\u003c/div\u003e\u003cdiv\u003e\u003cstrong\u003e\u003cfont size=\u00222\u0022\u003eThis class requires students to \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/music-classes-and-private-lessons/private-lessons/\u0022 target=\u0022_self\u0022\u003eregister for weekly private lessons\u003c/a\u003e\u003c/span\u003e in addition to the 55-minute group class.\u003c/font\u003e\u003c/strong\u003e\u003cdiv\u003e\u003cbr\u003e\u003cdiv\u003e\u003cdiv\u003eMost students will have completed at least 1 year of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e. \u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eIn these performance-based classes, students will continue learning together through the Suzuki method in instrumental music classes in preparation for playing in large ensemble. Students will showcase their skills at Merit\u0027s annual StringTacular Concert in the spring. Parent Attendance is required.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003eIntermediate Suzuki-Alegre Strings repertoire\u003c/li\u003e\u003cli\u003eto refine their technique and facility on the instrument\u003c/li\u003e\u003cli\u003eto become acquainted with reading more difficult rhythms and key signatures\u003c/li\u003e\u003cli\u003econtinued ensemble skills\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003eClasses meet once per week for 55-minutes (29 weeks)\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Suzuki-Alegre Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "Kindergarten to 8th",
+      "Sections": [
+        {
+          "ActiveNetId": 15105,
+          "Title": "Intermediate Suzuki-Alegre Violin - Section D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13377",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15103,
+          "Title": "Intermediate Suzuki-Alegre Cello - Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13375",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15104,
+          "Title": "Intermediate Suzuki-Alegre Violin - Section C",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13376",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15102,
+          "Title": "Intermediate Suzuki-Alegre Violin - Section B",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13374",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15106,
+          "Title": "Intermediate Suzuki-Alegre Violin - Section E",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13378",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15246,
+          "Title": "Intermediate Suzuki-Alegre Violin - Section G",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13518",
+          "Price": 650.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15260,
+          "Title": "Intermediate Suzuki-Alegre Cello - Section D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13532",
+          "Price": 650.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 7
+    },
+    {
+      "ActiveNetId": 15107,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Traditional String Group Class",
+      "Description": "\u003cb\u003eGrades: 1st - 7th\u003c/b\u003e\u003cdiv\u003e\u003cbr\u003e\u003cdiv\u003e\u003ci\u003eMost students will have completed at least 1 year of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition.\u003c/a\u003e\u003c/span\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003e\u003cbr\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003eStudents will continue to work on solo repertoire and basic skills while preparing to play in a large ensemble. A spring concert will be held to showcase the students\u0027 skills.\u003c/div\u003e\u003cdiv\u003e\u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003ebasic scales and arpeggios\u003c/li\u003e\u003cli\u003emore advanced finger positions\u003c/li\u003e\u003cli\u003eto refine their technique and facility on the instrument\u003c/li\u003e\u003cli\u003eto become more comfortable reading notes and rhythms\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eClasses meet once per week for 55-minutes (29 weeks)\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Traditional Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-15",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "1st to 7th",
+      "Sections": [
+        {
+          "ActiveNetId": 15108,
+          "Title": "Intermediate Traditional Violin - Section D",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13380",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15109,
+          "Title": "Intermediate Traditional Violin - Section E",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13381",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15110,
+          "Title": "Intermediate Traditional Violin - Section F",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13382",
+          "Price": 650.0,
+          "Summary": "Wednesday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15111,
+          "Title": "Intermediate Traditional Violin - Section G",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13383",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 4
+    },
+    {
+      "ActiveNetId": 15117,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Traditional Strings Plus Orchestra",
+      "Description": "\u003cb\u003eGrades:\u003c/b\u003e 5th-10th\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003eMost students will have completed at least 2 years of instruction. This class is available to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003e\u003ci\u003e\u003cbr\u003e\u003c/i\u003e\u003c/div\u003e\u003cdiv\u003eMost students begin string orchestra in the third year of study, when they come together to play alongside one another while continuing in their instrumental musical classes. The string orchestras will showcase their skills in the winter and spring concerts. \u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003eto use all four strings\u003c/li\u003e\u003cli\u003eadvanced finger positions\u003c/li\u003e\u003cli\u003eto count basic rhythms and begin counting rhythms\u003c/li\u003e\u003cli\u003eto identify common intervals aurally and visually\u003c/li\u003e\u003cli\u003eto identify common key signatures\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003eClasses meet once per week for 2 hours (29 weeks)\u003c/div\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Traditional Strings",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-04",
+      "Course_End": "2019-05-16",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "5th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15118,
+          "Title": "Intermediate Traditional Violin H",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13390",
+          "Price": 650.0,
+          "Summary": "Thursday @ 5:00 PM"
+        },
+        {
+          "ActiveNetId": 15119,
+          "Title": "Intermediate Traditional Violin I Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13391",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15120,
+          "Title": "Intermediate Traditional Violin J Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13392",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        },
+        {
+          "ActiveNetId": 15265,
+          "Title": "Intermediate Traditional Violin M Plus Orchestra",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13537",
+          "Price": 755.0,
+          "Summary": "Thursday @ 6:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 4
+    },
+    {
+      "ActiveNetId": 15078,
+      "Program": "Instrumental \u0026 Vocal Music",
+      "Title": "Intermediate Voice Plus Mixed Chorus",
+      "Description": "Grades: 5th-10th\u003cbr\u003e\u003cbr\u003e\u003cdiv\u003e\u003cb\u003eAvailable to students via teacher recommendation or \u003cspan\u003e\u003ca href=\u0022http://meritmusic.org/group-class-placement-audition-request-form/\u0022 target=\u0022_self\u0022\u003eplacement audition\u003c/a\u003e\u003c/span\u003e.\u003cbr\u003e\u003cbr\u003e\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003eStudents will continue to develop their voice as an instrument and deepen their musical studies through Merit\u0027s unique vocal curriculum. Students will also attend Mixed Chorus which is a mandatory class for all Merit voice students (see Mixed Chorus for more details).\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003e\u003cb\u003eStudents will learn:\u003c/b\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003eto sing repertoire in three and four part harmony\u003c/li\u003e\u003cli\u003eto learn to sight-sing\u003c/li\u003e\u003cli\u003eto refine aural skills\u003c/li\u003e\u003cli\u003eto take part in advanced small and large group repertoire\u003c/li\u003e\u003cli\u003eto refine tone and technique\u003c/li\u003e\u003c/ul\u003e\u003cdiv\u003e\u003cb\u003eSchedule:\u003c/b\u003e\u003c/div\u003e\u003c/div\u003e\u003cdiv\u003eClasses meet once per week and includes one 55- minute group class and one 60 minute large ensemble rehearsal (29 weeks).\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Voice/Choir",
+          "Id": "voice-choir"
+        }
+      ],
+      "Level": "Intermediate",
+      "NoInternetReg": 0,
+      "Category": "Instrumental \u0026 Vocal Music",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": true,
+      "Course_Start": "2018-10-03",
+      "Course_End": "2019-05-22",
+      "RegistrationDeadline": "2018-09-22",
+      "RegistrationStart": "2018-08-20",
+      "PriorityRegStart": "2018-08-06",
+      "AgeRange": "5th to 10th",
+      "Sections": [
+        {
+          "ActiveNetId": 15078,
+          "Title": "Intermediate Voice Plus Mixed Chorus",
+          "Url_To_Register": "https://apm.activecommunities.com/meritmusic/Activity_Search/13350",
+          "Price": 990.0,
+          "Summary": "Wednesday @ 5:00 PM"
+        }
+      ],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 12148,
+      "Program": "Private Lessons",
+      "Title": "Private Lessons",
+      "Description": "\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003ePrivate lessons are the key component to reaching one\u0027s full potential as a musician, especially when combined with Merit School of Music\u0027s instrumental Music or Alice S. Pfaelzer Tuition-free Conservatory programs. Merit School of Music\u0027s faculty provides students with one-on-one instruction that is necessary to advance their level of musicianship and allows students to explore their individual talents and interests, develop skills and overcome challenges. Students who take private lessons learn in-depth instrumental technique, practice methods, dedication, commitment and achievement. Feedback is a required part of the process. \u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003e\u003cbr\u003e\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eResources and opportunities included in private lesson tuition:\u003c/font\u003e\u003c/div\u003e\u003cdiv\u003e\u003cul\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eone on one instruction with tailored goal setting\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eAccess to Merit\u0027s highly qualified and dedicated faculty\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eFinancial aid for qualifiying families\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eAnnual studio recital\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eMerit Young Musician\u0027s Competition (March)\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eTwo written evaluations per year (February and June)\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eAccess to Merit\u0027s library and audio/visual recordings\u003c/font\u003e\u003c/li\u003e\u003cli\u003e\u003cfont face=\u0022Times New Roman, Times, serif\u0022\u003eFree admission to most Merit concerts at the Joy Faith Knapp Music Center\u003c/font\u003e\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "18 Months - 3 Years",
+        "3 - 5 Years",
+        "5 - 7 Years",
+        "1st Grade",
+        "2nd Grade",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade",
+        "11th Grade",
+        "12th Grade",
+        "18 Years +"
+      ],
+      "Instruments": [
+        {
+          "Label": "Oboe",
+          "Id": "oboe"
+        },
+        {
+          "Label": "Clarinet",
+          "Id": "clarinet"
+        },
+        {
+          "Label": "Flute",
+          "Id": "flute"
+        },
+        {
+          "Label": "Bassoon",
+          "Id": "bassoon"
+        },
+        {
+          "Label": "Saxophone",
+          "Id": "saxophone"
+        },
+        {
+          "Label": "Horn",
+          "Id": "horn"
+        },
+        {
+          "Label": "Trumpet",
+          "Id": "trumpet"
+        },
+        {
+          "Label": "Percussion",
+          "Id": "percussion"
+        },
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        },
+        {
+          "Label": "Guitar",
+          "Id": "guitar"
+        },
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        },
+        {
+          "Label": "Voice",
+          "Id": "voice"
+        },
+        {
+          "Label": "Trombone",
+          "Id": "trombone"
+        },
+        {
+          "Label": "Tuba",
+          "Id": "tuba"
+        },
+        {
+          "Label": "Music Theory-Comp",
+          "Id": "music-theory-comp"
+        },
+        {
+          "Label": "Jazz Bass",
+          "Id": "jazz-bass"
+        },
+        {
+          "Label": "Jazz Drumset",
+          "Id": "jazz-drumset"
+        },
+        {
+          "Label": "Jazz Piano",
+          "Id": "jazz-piano"
+        },
+        {
+          "Label": "Jazz Saxophone",
+          "Id": "jazz-saxophone"
+        },
+        {
+          "Label": "Jazz Trumpet",
+          "Id": "jazz-trumpet"
+        },
+        {
+          "Label": "Solo Voice",
+          "Id": "solo-voice"
+        },
+        {
+          "Label": "Voice/Choir",
+          "Id": "voice-choir"
+        },
+        {
+          "Label": "Euphonium/Baritone",
+          "Id": "euphonium-baritone"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": -1,
+      "Category": "Private Lessons",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2016-01-01",
+      "Course_End": "2016-01-01",
+      "RegistrationDeadline": null,
+      "RegistrationStart": null,
+      "PriorityRegStart": null,
+      "AgeRange": "3 years to 99 years",
+      "Sections": [],
+      "Number_Of_Sections": 1
+    },
+    {
+      "ActiveNetId": 12149,
+      "Program": "Conservatory",
+      "Title": "Tuition-Free Conservatory",
+      "Description": "\u003cdiv\u003eOne of Merit\u0027s signature programs, the Alice S. Pfaelzer Tuition-free Conservatory represents the culmination of Merit\u0027s music education continuum with the most accomplished of the student musicians; entry is by audition only.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eIn return for students\u0027 hard work and dedication, Merit provides the Conservatory experience on a tuition free basis. Students\u0027 skills are showcased in concerts and performances throughout the year. instruction from Chicago\u0027s finest music educators is provided through a weekly curriculum that includes large ensembles, instrumental technique classes, music theory classes and a variety of elective classes, as well as live performances. World-class professional artists lead master classes.\u003c/div\u003e",
+      "Location": "Merit School of Music",
+      "Ages": [
+        "5 - 7 Years",
+        "3rd Grade",
+        "4th Grade",
+        "5th Grade",
+        "6th Grade",
+        "7th Grade",
+        "8th Grade",
+        "9th Grade",
+        "10th Grade",
+        "11th Grade",
+        "12th Grade"
+      ],
+      "Instruments": [
+        {
+          "Label": "Oboe",
+          "Id": "oboe"
+        },
+        {
+          "Label": "Clarinet",
+          "Id": "clarinet"
+        },
+        {
+          "Label": "Flute",
+          "Id": "flute"
+        },
+        {
+          "Label": "Bassoon",
+          "Id": "bassoon"
+        },
+        {
+          "Label": "Saxophone",
+          "Id": "saxophone"
+        },
+        {
+          "Label": "Horn",
+          "Id": "horn"
+        },
+        {
+          "Label": "Trumpet",
+          "Id": "trumpet"
+        },
+        {
+          "Label": "Percussion",
+          "Id": "percussion"
+        },
+        {
+          "Label": "Piano",
+          "Id": "piano"
+        },
+        {
+          "Label": "Guitar",
+          "Id": "guitar"
+        },
+        {
+          "Label": "Violin",
+          "Id": "violin"
+        },
+        {
+          "Label": "Viola",
+          "Id": "viola"
+        },
+        {
+          "Label": "Cello",
+          "Id": "cello"
+        },
+        {
+          "Label": "Double Bass",
+          "Id": "double-bass"
+        },
+        {
+          "Label": "Voice",
+          "Id": "voice"
+        },
+        {
+          "Label": "Trombone",
+          "Id": "trombone"
+        },
+        {
+          "Label": "Baritone Saxophone",
+          "Id": "baritone-saxophone"
+        },
+        {
+          "Label": "Tuba",
+          "Id": "tuba"
+        },
+        {
+          "Label": "Music Theory-Comp",
+          "Id": "music-theory-comp"
+        },
+        {
+          "Label": "Euphonium",
+          "Id": "euphonium"
+        },
+        {
+          "Label": "Bass Trombone",
+          "Id": "bass-trombone"
+        },
+        {
+          "Label": "Jazz Bass",
+          "Id": "jazz-bass"
+        },
+        {
+          "Label": "Jazz Drumset",
+          "Id": "jazz-drumset"
+        },
+        {
+          "Label": "Jazz Piano",
+          "Id": "jazz-piano"
+        },
+        {
+          "Label": "Jazz Saxophone",
+          "Id": "jazz-saxophone"
+        },
+        {
+          "Label": "Jazz Trumpet",
+          "Id": "jazz-trumpet"
+        },
+        {
+          "Label": "Solo Voice",
+          "Id": "solo-voice"
+        },
+        {
+          "Label": "Tenor Saxophone",
+          "Id": "tenor-saxophone"
+        },
+        {
+          "Label": "Voice/Choir",
+          "Id": "voice-choir"
+        },
+        {
+          "Label": "Alto Saxophone",
+          "Id": "alto-saxophone"
+        }
+      ],
+      "Level": "",
+      "NoInternetReg": -1,
+      "Category": "Conservatory",
+      "SummerCamp": "false",
+      "Notes": "",
+      "AllowPriorityRegistration": false,
+      "Course_Start": "2016-01-01",
+      "Course_End": "2016-01-01",
+      "RegistrationDeadline": null,
+      "RegistrationStart": null,
+      "PriorityRegStart": null,
+      "AgeRange": "8 years to 17 years",
+      "Sections": [],
+      "Number_Of_Sections": 1
+    }
+  ]
+}

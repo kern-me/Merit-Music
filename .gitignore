@@ -61,18 +61,9 @@ Thumbs.db
 # track these files, if they exist
 !.gitignore
 !.editorconfig
-!.phpcs.xml.dist
 !README.md
 !CHANGELOG.md
 !composer.json
 
-# track favicon files, if they exist
-!android-chrome-*.png
-!apple-touch-icon*.png
-!browserconfig.xml
-!favicon*.png
-!favicon*.ico
-!manifest.json
-!mstile-*.png
-!safari-pinned-tab.svg
-!site.webmanifest
+# track these mu-plugins, plugins, and themes
+!wp-content/themes/merit-theme/

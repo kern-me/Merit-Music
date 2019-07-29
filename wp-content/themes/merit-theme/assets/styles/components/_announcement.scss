@@ -1,0 +1,51 @@
+#announcement{
+	display:none;
+	text-align: center;
+	padding: 0 20px;
+	position: relative;
+	z-index: 2;
+	box-shadow: 0 0 25px rgba(0,0,0,.2);
+	
+	p{
+		color: #fff;
+		line-height: 1;
+		margin: 0;
+		padding: 10px 20px;
+		text-align: center;
+	
+		a{
+			color: #fff;
+			text-decoration: underline;
+		}
+	}
+	
+	a.close{
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		font-weight: bold;
+		color: #fff;
+		padding: 5px 15px;
+		line-height: 1;
+		font-size: 22px;
+		cursor: pointer;
+	}
+	
+	background: $merit-orange;
+	
+	&.blue{
+		background: $merit-blue;
+	}
+	&.pink{
+		background: $merit-pink;
+	}
+	&.yellow{
+		background: $merit-yellow;
+	}
+	&.green{
+		background: $merit-green;
+	}
+	&.maroon{
+		background: $merit-wine;
+	}
+}

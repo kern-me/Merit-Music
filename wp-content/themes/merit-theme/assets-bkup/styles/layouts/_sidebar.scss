@@ -1,0 +1,133 @@
+.sidebar{
+	padding: 40px 0 0 20px;
+
+	.widget{		
+		margin-bottom: 50px;
+		font-size: 16px;
+		
+		h3{
+			margin: 0 0 10px;
+			font-size: 20px;
+			color: #fff;
+			text-transform: uppercase;
+			
+		}
+				
+		i{
+			transition: padding .3s ease;
+		}
+		
+		a:hover i{
+			padding-left: 8px;
+		}
+				
+		&.related_links{
+			background: $merit-blue;
+			padding: 20px;
+			
+			ul{
+				list-style: none;
+				margin: 20px 0 10px;
+				padding: 0;
+			}
+			p{
+				color: #fff;
+			}
+			a{
+				font-size: 18px;
+				color: #fff;
+			}
+			
+			&.orange{
+				background-color: $merit-orange;
+			}
+			&.green{
+				background-color: $merit-green;
+			}
+			&.maroon{
+				background-color: $merit-wine;
+			}
+			&.yellow{
+				background-color: $merit-yellow;
+			}
+			&.pink{
+				background-color: $merit-pink;
+			}
+			
+			@include responsive(tablet){
+				text-align: center;
+			}		
+		}
+		
+		&.events{
+			
+			h3{
+				font-size: 30px;
+				font-weight: $merit-font-bold;
+				background: $merit-wine;
+				text-align: center;
+				padding: 20px 0;
+
+				@include responsive(tablet){
+					font-size: 20px;
+				}
+			}
+			.single{
+				max-width: 390px;
+				margin: 0 auto;
+				padding: 35px 10px;
+				border-bottom: 2px solid $merit-blue;
+				
+				@include responsive(tablet){
+					padding: 20px 10px;
+				}
+			}			
+			h4 a{
+				font-size: 20px;
+				font-family: $merit-font-bold;
+			}
+
+		}
+		
+		&.image{
+			position: relative;
+			background-size: contain !important;
+			background-repeat: no-repeat;
+			padding-bottom: 145.6%;
+			text-align: center;
+			
+			a{
+				@extend .button;
+				position: absolute;
+				left: 0; right: 0;
+				margin: 0 auto;
+				width: 60%;
+				background: $merit-orange;
+				padding: 6px 0;
+				text-align: center;
+				color: #fff;
+				text-transform: uppercase;
+				
+				@include responsive(tablet){
+					font-size: 15px;
+					padding: 4px 0;
+				}
+			}
+			@include responsive(mobile){
+				width: 364px;
+				height: 530px;
+				padding: 0px;
+				max-width: 100%;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@include responsive(tablet){
+			margin-bottom: 20px;
+		}
+
+	}
+	@include responsive(mobile){
+		padding: 0;
+	}
+}

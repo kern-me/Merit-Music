@@ -1,0 +1,48 @@
+// Search form
+.search-form {
+  @extend .form-inline;
+}
+.search-form label {
+  font-weight: normal;
+  @extend .form-group;
+}
+.search-form .search-field {
+  @extend .form-control;
+}
+.search-form .search-submit {
+  @extend .btn;
+  @extend .btn-default;
+}
+
+.search-form label{
+	width: 250px;
+	max-width: 80%;
+	
+	.search-field{
+		width:100%;
+	}
+}
+
+.gform_wrapper{
+	.gfield_label{
+		font-weight: 800;
+		margin-bottom: 0;
+		font-size: 18px;
+	}	
+	.gfield{
+		margin-bottom: 12px;
+	}
+	input,
+	textarea,
+	select{
+		border: 1px solid #ccc;
+		font-size: 15px;
+	}
+	
+	.gform_footer input[type=submit]{
+		border: 2px solid $merit-orange;
+		font-size: 18px;
+		color: #fff;
+		background: $merit-orange;
+	}
+}

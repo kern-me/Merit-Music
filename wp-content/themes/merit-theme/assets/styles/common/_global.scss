@@ -1,0 +1,91 @@
+body{
+	height: 100%;
+	padding-top: 100px;
+	font-family: $merit-font;
+	overflow-x: hidden;
+	-webkit-font-smoothing: subpixel-antialiased;
+	
+	@include responsive(mobile){
+		padding-top: 70px;
+	}
+}
+body#tinymce{ 
+	padding-top: 0px !important;
+	h1{ color: #333 !important; }
+}
+h1{
+	margin: 0;
+	text-transform: uppercase;	
+	font-size: 50px;
+	color: #fff;
+	text-shadow: 3px 3px 10px rgba(0,0,0,.4);
+	
+	@include responsive(tablet){
+		font-size: 36px;
+	}
+	@include responsive(mobile){
+		font-size: 28px;
+	}
+}
+h2{
+	color: $merit-blue;
+	font-size: 32px;
+	font-weight: 800;
+	text-transform: uppercase;
+	
+	&.maroon{
+		background: $merit-wine;
+		padding: 25px;
+		margin: 0 0 20px;
+		color: #fff;
+		text-align: center;
+		text-transform: uppercase;
+	}
+	@include responsive(tablet){
+		font-size: 24px;
+	}
+}
+p{
+	font-size: 16px;
+	line-height: 1.2;
+}
+main p{
+	line-height: 1.5;
+}
+em{ font-family: $merit-font-italic; }
+a{
+	transition: all .3s ease;
+	color: $merit-orange;
+	
+	&:hover,
+	&:visited,
+	&:focus{
+		text-decoration: none;
+	}
+}
+blockquote{
+	background: #eee;
+	border: none;
+	padding: 25px;
+	margin: 40px 0 40px;
+	
+	p{
+		font-style: italic;
+		font-size: 30px;
+		line-height: 1.2;
+		color: $merit-wine;
+	}
+	em{
+		display: block;
+		text-align: right;
+	}
+}
+li{
+	font-size: 16px;
+}
+.center{
+	text-align: center;
+}
+.clear{
+	clear: both;
+}

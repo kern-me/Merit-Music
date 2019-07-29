@@ -1,0 +1,94 @@
+#tribe-events-pg-template{
+	padding: 0 20px;
+}
+.tribe-events-month .tribe-events-calendar{
+	.type-tribe_events,
+	.tribe-events-category-merit,
+	.tribe-events-category-special-events{
+		background-color: $merit-blue;
+	}
+	.tribe-events-category-instrumental-music{
+		background-color: $merit-wine;
+	}
+	.tribe-events-category-bridges,
+	.tribe-events-category-community{
+		background-color: $merit-green;
+	} 
+	.tribe-events-category-early-childhood{
+		background-color: $merit-pink;
+	}
+	.tribe-events-category-conservatory{
+		background-color: $merit-orange;
+	}
+	.tribe-events-category-summer-camps,
+	.tribe-events-category-private-lessons{
+		background-color: $merit-yellow;
+	}
+	.tribe-events-month-event-title{
+		a{
+			color: #fff;
+		}
+	}
+}
+.tribe-events-page-title{
+	color: #fff;
+	padding: 10px;	
+	background: $merit-blue;
+}
+.tribe-events-calendar div[id*=tribe-events-daynum-], 
+.tribe-events-calendar div[id*=tribe-events-daynum-] a{
+	background-color: transparent;
+	color: #ccc;
+	font-size: 18px;
+}
+#tribe-events .tribe-events-button, #tribe-events .tribe-events-button:hover, #tribe_events_filters_wrapper input[type=submit], .tribe-events-button, .tribe-events-button.tribe-active:hover, .tribe-events-button.tribe-inactive, .tribe-events-button:hover, .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a{
+	background-color: $merit-blue;
+}
+.single-tribe_events{
+	&.bridges #masthead{
+		background-color: $merit-green;
+	}
+	&.merit #masthead,
+	&.special-events #masthead{
+		background-color: $merit-blue;
+	}
+	&.instrumental-music #masthead{
+		background-color: $merit-wine;
+	}
+	&.early-childhood #masthead{
+		background-color: $merit-pink;
+	}
+	&.conservatory #masthead{
+		background-color: $merit-orange;
+	}
+	&.summer-camps #masthead,
+	&.private-lessons #masthead{
+		background-color: $merit-yellow;
+	}
+}
+.tribe-events-calendar thead th{
+	background: #eee;
+	color: $merit-blue;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+	border-left: 0px;
+	border-right: 0px;
+}
+.tribe-events-user-recurrence-toggle{
+	display: none !important;
+}
+
+#featured_events{
+	
+	.event{
+		text-align: center;
+		color: $merit-orange;
+		margin-bottom: 40px;
+	
+		img{
+			max-width: 100%;
+			height: auto;
+			border: 2px solid $merit-blue;
+		}
+	}
+}

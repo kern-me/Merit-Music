@@ -1,0 +1,227 @@
+.panel{
+	background: #eee;
+	font-size: 16px;
+	margin-bottom: 40px;
+	border-radius: 0px;
+	box-shadow: none;
+	border: 0px;
+	
+	.panel-body{
+		padding: 20px;
+	}
+	.course-card-title{
+		font-size: 24px;
+		line-height: 1;
+		color: $merit-blue;
+		margin-bottom: 6px;
+	}
+	
+	.course-price{
+		background: $merit-blue;
+		color: #fff;
+		padding: 4px 20px;
+		font-size: 18px;
+		font-weight: bold;
+	}
+
+}
+
+.course-filters,
+.course-details{
+	border: 2px solid $merit-orange;
+	margin-left: 5px;
+	margin-right: -15px;
+	padding: 10px 15px;
+	
+	.button{
+		float: right;	
+		margin: 10px 0;
+	}
+	
+	h4, label,
+	.course-detail-label{
+		color: $merit-blue;
+		font-size: 18px;
+		font-weight: 800;
+		text-transform: uppercase;
+	}
+	.course-detail-info{
+		margin-bottom: 15px;
+	}
+	label.radio-label{
+		display: block;
+		font-size: 16px;
+		color: #333;
+		font-weight: normal;
+		padding-left: 3%;
+		
+	}
+	select{
+		margin: 0 2.5%;
+		display: block;
+		width: 95%;
+	}
+	
+	@include responsive(tablet){
+		margin-right: 0;
+		margin-left: 0;
+	}
+	hr{
+		border-color: $merit-orange;
+		border-width: 2px;
+	}
+	.course-code-form{
+		padding: 0 20px;
+	}
+}
+.upcoming_events{
+	margin-bottom: 40px;
+	margin-right: -15px;
+	margin-left: 5px;
+	
+	h3{
+		font-size: 30px;
+		font-weight: $merit-font-bold;
+		background: $merit-wine;
+		color: #fff;
+		text-align: center;
+		padding: 20px 0;
+
+		@include responsive(tablet){
+			font-size: 20px;
+		}
+	}
+	.single{
+		max-width: 390px;
+		margin: 0 auto;
+		padding: 35px 10px;
+		border-bottom: 2px solid $merit-blue;
+		
+		@include responsive(tablet){
+			padding: 20px 10px;
+		}
+	}			
+	h4 a{
+		font-size: 20px;
+		font-family: $merit-font-bold;
+	}
+	
+	@include responsive(tablet){
+		display: none !important;
+	}
+
+}
+.section-selection{
+	border: 2px solid $merit-orange;
+	padding: 10px 15px;
+	margin-bottom: 20px;
+	background: #eee;
+	
+	h2{
+		margin-top: 5px;
+	}
+	
+	p{
+		margin-left: 15px;
+	}
+	.radio{
+		margin-left: 15px; 
+		
+		&:last-of-type{
+			margin-bottom: 20px;
+		}
+	}
+}
+.course-info-page{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	
+	p.reg-begins{
+		font-weight: bold;
+		color: $merit-blue;
+	}
+	
+	.course_info{
+		background: #eee;
+		padding: 20px;
+		
+		h2{
+			margin-top: 0;
+			font-size: 22px;
+		}
+	}
+}
+.course-search .course-feed{
+	margin-top: 40px;
+}
+.inline-contextual-search{
+	border-top: 40px solid $merit-wine;
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
+.contextual-search-form{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	
+	span{
+		display: block;
+		margin: 20px 0;
+	}
+	select{
+		font-size: 18px;
+		width: auto;
+		border-width: 0;
+		box-shadow: none;
+		color: $merit-orange;
+		display: inline;
+		text-transform: lowercase;
+		text-align: center;
+		background:transparent;
+	}
+	.select{
+		display: inline;
+		padding: 4px 0;
+		border-bottom: 1px solid #333;
+	}
+	button{
+		@extend a.button;
+		border: 0px;
+		font-weight: normal;
+	}
+}
+body.search .border{
+	border-right: 1px solid $merit-blue;
+	padding-bottom: 30px;
+	
+	.contextual-search-form{
+		text-align: left;
+	}
+	
+	@include responsive(mobile){
+		border-right: 0px;
+		border-bottom: 1px solid $merit-blue;
+	}
+}
+form#course-code{
+	margin-bottom: 25px;
+	max-width: 300px;
+	
+	input{
+		float: left;
+		margin: 0;
+		width: 70%;
+		border: 2px solid #959595;
+		height: 28px;
+	}
+	button{
+		@extend a.button;
+		float: left;
+		margin: 0;
+		width: 30%;
+		height: 28px;
+		border: 0px;
+		line-height: 20px;
+		font-size: 16px;
+	}
+}

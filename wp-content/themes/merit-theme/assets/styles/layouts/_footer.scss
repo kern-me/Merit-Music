@@ -1,0 +1,172 @@
+.testimonials{
+	background-color: #ebebeb;
+	
+	h3{
+		text-transform: uppercase;
+		color: $merit-orange;
+	}
+	.image{ 
+		background-size: auto 90%;
+		background-repeat: no-repeat;
+		background-position: right bottom;
+		
+		@include responsive(mobile){
+			background-size: auto 220px;
+			background-position: center bottom;
+		}
+	}
+	.item{
+		text-align: center;
+		padding: 100px 0 300px;
+		
+		a.button{
+			background: $merit-wine;
+			margin-bottom: 20px;
+			margin-top: 20px;
+			padding: 4px 15px;
+		}
+		@include responsive(mobile){
+			padding: 30px 20px;
+			margin-bottom: 200px;
+		}
+	}
+}
+
+footer{
+	text-align: center;
+	padding-bottom: 20px;
+	
+	h3,
+	h3 a{
+		margin-top: 0px;
+		text-transform: uppercase;
+		font-size: 20px;
+	}
+	a{
+		font-size: 14px;
+		color: #fff;
+	
+		&:hover{
+			color: inherit;
+			opacity: .7;
+		}
+	}
+
+	.nav{
+		background: $merit-blue;
+		padding: 50px;
+		color: #fff;		
+		text-align: left;
+		
+	
+		ul{
+			list-style-type: none;
+			margin: 0 0 20px;
+			padding: 0;
+			
+		}
+		li{
+			padding: 3px 0;
+		}
+		@include responsive(mobile){
+			text-align: center;
+			padding: 30px 20px 0;
+		}
+
+	}
+	
+	.social-bar{
+		background: #001874;
+		padding: 10px 50px;
+		color: #fff;
+		
+		a i{
+			font-size: 36px;
+			margin: 0 5px;
+		}
+	}
+	
+	.sponsors{
+		margin: 30px auto;
+		padding: 0 50px;
+		
+		h3{
+			color: $merit-blue;
+		}
+		
+		.slide{
+			height: 80px;
+			
+			&:before{
+				content: "";
+				display: inline-block;
+				height: 100%;
+				vertical-align: middle;
+			}
+			
+			&:focus{
+				outline: none;
+			}
+		}	
+	
+		img{
+			vertical-align: middle;
+			display: inline-block;
+			margin: 0 auto;
+			max-width: 100%;
+			height: auto;
+			width: auto !important;
+		}
+		
+		.slick-arrow{
+			position: absolute;
+			top: 50%;
+			margin-top: -33px;
+			width: 22px;
+			height: 66px;
+			font-size: 0px;
+			text-indent: 500px;
+			white-space: nowrap;
+			overflow: hidden;
+			background-size: contain;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-color: transparent;
+			border: 0px;
+			
+			&.slick-prev{
+				left: -20px;
+				background-image: url(../images/arrow-left.png);
+			}
+			&.slick-next{
+				right: -20px;
+				background-image: url(../images/arrow-right.png);
+			}
+			&:focus{
+				outline: none;
+			}
+		}
+
+	}
+	
+	p.copyright{
+		margin: 30px 15px 20px;
+		color: $merit-blue;
+		font-size: 18px;
+		
+		a{
+			font-size: inherit;
+			color: inherit;
+		}
+	}
+	.awards a{
+		display: inline-block;
+		margin: 0 10px;
+		max-width: 33%;
+		
+		img{
+			max-width: 100%;
+		}
+	}
+}
+

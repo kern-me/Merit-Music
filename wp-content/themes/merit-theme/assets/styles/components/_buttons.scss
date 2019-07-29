@@ -1,0 +1,61 @@
+a.button{
+	display: inline-block;
+	width: auto;
+	padding: 4px 8px;
+	background: $merit-orange;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 18px;
+	cursor: pointer !important;
+	
+	i{
+		transition: padding .3s ease;
+	}
+	
+	&:hover i{
+		padding-left: 8px;
+	}
+	
+	&.inverse{
+		margin-top: 40px;
+		background: transparent;
+		border: 2px solid $merit-orange;
+		color: $merit-orange;
+	}
+	
+}
+a.expired{
+	@extend .button;
+	background: #999;
+	font-style: italic;
+	cursor: not-allowed !important;
+	text-transform: none;
+}
+.main .events{
+	a.button,
+	a.expired{
+		max-width: 50%;
+		text-align: center;
+		padding: 10px;
+		
+		@include responsive(tablet){
+			max-width: none;
+			padding: 10px 20px;
+		}
+	}
+}
+.sidebar .widget,
+.events-section .item{
+	a.button{
+		padding: 0px;
+		margin-top: 15px;
+		color: $merit-orange;
+		background: transparent;
+	}
+}
+.sidebar .widget.related_links a.button{
+	@extend .button;
+	color: #fff;
+	padding: 4px 8px;
+	border: 2px solid #fff;	
+}

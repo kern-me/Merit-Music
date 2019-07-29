@@ -1,0 +1,41 @@
+// Glyphicons font path
+$icon-font-path:        "../fonts/";
+
+// Grid settings
+$main-sm-columns:       12;
+$sidebar-sm-columns:    4;
+
+// Font Stack
+$merit-font: 			"Century Gothic W01","Century Gothic", AppleGothic, sans-serif;
+$merit-font-bold:		800;
+$merit-font-italic: 	"CenturyGothicW01-Italic", "Century Gothic", AppleGothic, sans-serif;
+
+// Colors
+$merit-blue: 			#0067b2;
+$merit-orange: 			#e4701d;
+$merit-yellow: 			#f0b310;
+$merit-green: 			#409638;
+$merit-wine:			#880037;
+$merit-pink: 			#b60050;
+$text:					#333333;
+
+// Responsive Breakpoints
+$tiny-width: 	550px;
+$mobile-width: 	767px;
+$tablet-width: 	992px;
+$widescreen-width: 1280px;
+
+@mixin responsive($media){
+	@if $media == tiny{
+		@media only screen and (max-width: $tiny-width){ @content; }
+	}
+	@else if $media == mobile{
+		@media only screen and (max-width: $mobile-width){ @content; }
+	}
+	@else if $media == tablet{
+		@media only screen and (max-width: $tablet-width){ @content; }
+	}
+	@else if $media == widescreen{
+		@media only screen and (min-width: $widescreen-width){ @content; }
+	}
+}
