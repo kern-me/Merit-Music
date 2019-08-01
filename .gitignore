@@ -64,6 +64,7 @@ Thumbs.db
 !README.md
 !CHANGELOG.md
 !composer.json
+!.htaccess
 
 # track these mu-plugins, plugins, and themes
 !wp-content/themes/merit-theme/
