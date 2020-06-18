@@ -3,7 +3,12 @@
 ~*
 
 # ignore node dependency directories (used by grunt)
-node_modules/
+/merit-theme/node_modules/
+/merit-theme/bower_components/
+/merit-theme/dist/
+/merit-theme/dist-bkup/
+/composer.phar
+/merit-theme/package-lock.json
 
 # ignore OS generated files
 ehthumbs.db
@@ -47,7 +52,4 @@ Thumbs.db
 !README.md
 !CHANGELOG.md
 !composer.json
-/merit-theme/bower_components/
-/merit-theme/dist/
-/merit-theme/dist-bkup/
-/composer.phar
+
