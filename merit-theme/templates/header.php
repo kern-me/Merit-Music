@@ -1,4 +1,5 @@
 <header class="banner">
+	<!-- bananas -->
   <div class="container">
     <a class="brand" href="<?= esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a>
     <nav class="primary">
@@ -15,7 +16,7 @@
 				}
 				</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 		    </div>
-		<a href="https://apm.activecommunities.com/meritmusic/ActiveNet_Login"><i class="fa fa-gear"></i> <span>My Account</span></a>
+		<a class="account" href="https://meritmusic.asapconnected.com/"><i class="fa fa-gear"></i> <span>My Account</span></a>
 	    <br /><a class="donate" target="_blank" href="https://www.meritmusic.org/donate"><i class="fa fa-money"></i> <span>Donate</span></a>
     </div>
   </div>

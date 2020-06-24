@@ -1,0 +1,153 @@
+
+body {
+    font-family: 'Manrope', sans-serif !important;
+}
+
+em {
+    font-family: 'Manrope', sans-serif !important;
+}
+
+@media (min-width: 993px) {
+    nav.primary:after {
+        height: 55px;
+    }
+    nav.primary a {
+        padding: 20px 20px 17px;
+    }
+    header.banner a.brand {
+        position: relative;
+        left: -17px;
+        margin: 25px 0;
+    }
+}
+
+a#menu-icon:after {
+    content: "MENU";
+    position: relative;
+}
+
+#announcement {
+    padding: 20px;
+    top: 24px;
+}
+
+#masthead {
+    margin-top: 24px;
+}
+
+.util a {
+    padding: 5px 15px 10px;
+    font-size: 15px;
+}
+
+.util a.account {
+    padding: 5px 0 10px 15px;
+}
+
+.util a.donate {
+    padding: 11px 17px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.util a.donate span {
+    padding-left: 5px;
+}
+
+header.narrow .util {
+    padding: 0 0 0 20px;
+}
+
+header.narrow .util a {
+    padding: 5px 15px 10px;
+    font-size: 15px;
+}
+
+header.narrow .util a.account {
+    padding: 5px 15px 10px;
+    font-size: 15px;
+}
+
+header.narrow .util a.donate {
+    padding: 11px 17px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+a#menu-icon span, a#menu-icon span:after, a#menu-icon span:before {
+    height: 4px;
+}
+
+a#menu-icon {
+    letter-spacing: 1px;
+    width: 95px;
+    padding: 60px 24px 0;
+}
+
+.faculty h3, .staff h3 {
+    font-weight: inherit;
+    text-transform: capitalize;
+}
+
+.tribe-events-page-template #header,
+.tribe-events-page-template #footer {
+    display: none;
+}
+
+.tribe-events-calendar-month__calendar-event-datetime time {
+    font-size: 14px !important;
+}
+
+ul.bio-links li {
+    font-size: 20px;
+}
+
+/* Calendar Styling */
+
+/* Custom Category Colors */
+article.cat_concerts .tribe-events-calendar-month__multiday-event-bar {
+    /*background-color: cornflowerblue !important;*/
+}
+
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-main-calendar h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-main-calendar .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-main-calendar h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-main-calendar h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-main-calendar h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-main-calendar h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-main-calendar h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-main-calendar h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-main-calendar h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-main-calendar h3,
+.tribe-events-category-main-calendar .tribe-events-map-event-title a:link,
+.tribe-events-category-main-calendar .tribe-events-map-event-title a:visited,
+#tribe-events-content div.tribe-events-category-main-calendar.hentry.vevent .tribe-events-tooltip h4.entry-title,
+.tribe-grid-body .tribe-events-week-hourly-single:hover.tribe-events-category-main-calendar,
+.tribe-grid-body .tribe-events-week-hourly-single.tribe-events-category-main-calendar,
+.tribe-grid-allday .tribe-events-week-allday-single.tribe-events-category-main-calendar,
+.tribe-events-category-main-calendar h3.tribe-events-list-event-title,
+.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-main-calendar,
+.tribe-mini-calendar td.tribe-events-has-events.tribe-events-category-main-calendar,
+.tribe-events-adv-list-widget .tribe-events-category-main-calendar h2,
+.tribe-venue-widget-list li.tribe-events-category-main-calendar h4,
+.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-main-calendar,
+#tribe-events-content .tribe-events-category-main-calendar > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-main-calendar h2,
+.tribe-events-category-main-calendar > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-main-calendar h4 {
+    background-color: transparent !important;
+}
+
+.tribe-events .tribe-events-calendar-month__multiday-event--start .tribe-events-calendar-month__multiday-event-bar {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.tribe-events .tribe-events-calendar-month__multiday-event--end .tribe-events-calendar-month__multiday-event-bar {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.tribe-events-category-main-calendar .tribe_events_cat-main-calendar {
+    background-color: #CFCFCF !important;
+}

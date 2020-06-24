@@ -27,7 +27,10 @@
 	}
   </script>
   <?php } ?>
-  <!-- Google Tag Manager -->
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;800&display=swap" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/wp-content/themes/merit-theme/new-v13.css"/>
+
+    <!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
