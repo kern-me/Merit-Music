@@ -34,9 +34,34 @@
 		<? if(get_field("bio")){ ?>
 			<h3>Bio:</h3>
 			<? the_field("bio"); ?>
-		<? } ?>	
-		
-		<p><a class="button inverse" href="/about-merit/faculty-staff/">&laquo; Back to Faculty & Staff</a></p>
+		<? } ?>
+
+        <? if( get_field('facebook') || get_field('twitter') || get_field('linkedin') || get_field('instagram') || get_field('additional_link') ): ?>
+            <h3>My Links:</h3>
+
+            <ul class="list-inline bio-links">
+            <? if( get_field('facebook') ): ?>
+                <li><a target="_blank" href="<? echo the_field('facebook'); ?>"><i class="fa fa-facebook"></i></a></li>
+            <? endif; ?>
+            <? if( get_field('twitter') ): ?>
+                <li><a target="_blank" href="<? echo the_field('twitter'); ?>"><i class="fa fa-twitter"></i></a></li>
+            <? endif; ?>
+            <? if( get_field('linkedin') ): ?>
+                <li><a target="_blank" href="<? echo the_field('linkedin'); ?>"><i class="fa fa-linkedin"></i></a></li>
+            <? endif; ?>
+            <? if( get_field('instagram') ): ?>
+                <li><a target="_blank" href="<? echo the_field('instagram'); ?>"><i class="fa fa-instagram"></i></a></li>
+            <? endif; ?>
+            </ul>
+
+            <? if( get_field('additional_link')): ?>
+                <a target="_blank" title="Visit <? echo the_field('additional_link'); ?>" href="<? echo the_field('additional_link'); ?>"><? echo the_field('additional_link'); ?></a>
+            <? endif; ?>
+
+        <? else: ?>
+        <? endif; ?>
+
+        <p><a class="button inverse" href="/about-merit/faculty-staff/">&laquo; Back to Faculty & Staff</a></p>
 	</div>
 	<div class="col-sm-6">
 		<? if(get_field("image")){ ?>
