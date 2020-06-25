@@ -1,5 +1,5 @@
 <div class="container bios">
-	<div class="col-sm-6">
+	<div class="col-sm-6 pl-0">
 		<h2><? the_title(); ?></h2>
 		<? if(get_field("title")){ ?>
 			<h3><? the_field("title"); ?></h3>
