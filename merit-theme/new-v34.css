@@ -100,6 +100,12 @@ a#menu-icon {
     margin-top: 24px;
 }
 
+@media (max-width: 992px) {
+    #masthead {
+        margin-top: 0;
+    }
+}
+
 /* Flush left content alignment refinements */
 footer .social-bar {
     padding: 40px;
