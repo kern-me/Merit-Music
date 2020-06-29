@@ -103,6 +103,12 @@ a#menu-icon {
     top: 24px;
 }
 
+@media (max-width: 992px) {
+    #announcement {
+        top: 0;
+    }
+}
+
 #masthead {
     margin-top: 24px;
 }
@@ -127,7 +133,9 @@ footer .social-bar {
 }
 
 .sidebar-primary .main {
-    padding-left: 0;
+    /*padding-left: 0;*/
+    padding-left: 34px;
+    padding-right: 34px;
 }
 
 body.page-id-19445 .main {
@@ -143,7 +151,7 @@ body.page-id-272 .vc_column_container>.vc_column-inner {
 }
 
 body.page-id-272 .sidebar-primary .main,
-body.page-id-264 .sidebar-primary .main,
+body.page-id-264 .main,
 body.page-id-10107 .sidebar-primary .main,
 body.page-id-10301 .sidebar-primary .main {
     padding-left: 34px;

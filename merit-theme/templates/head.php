@@ -28,7 +28,7 @@
   </script>
   <?php } ?>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;800&display=swap" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="/wp-content/themes/merit-theme/new-v34.css"/>
+    <link type="text/css" rel="stylesheet" href="/wp-content/themes/merit-theme/new-v36.css"/>
 
     <!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
