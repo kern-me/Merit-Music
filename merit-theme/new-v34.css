@@ -17,6 +17,13 @@ h2 {
     width: 65%;
 }
 
+@media (max-width: 728px) {
+    .social-bar .email-form {
+        width: 100%;
+    }
+}
+
+
 /* Header / Navigation */
 header.banner a.brand {
     background-position: left center;
