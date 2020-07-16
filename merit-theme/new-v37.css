@@ -250,3 +250,28 @@ article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-main-calenda
         color: #ebebeb;
     }
 }
+
+.tribe-events .tribe-events-c-ical__link {
+    color: #e4701e;
+    border: 1px solid #e4701e;
+}
+
+.tribe-events .tribe-events-c-ical__link:hover {
+    background-color: #2868AD;
+    border: 1px solid #2868AD;
+}
+
+.tribe-events .tribe-events-c-ical__link:before {
+    content: '+';
+    color: #e4701e;
+    background-image: none;
+    font-size: 2rem;
+    top: 0;
+    line-height: 0.5;
+}
+
+.tribe-events .tribe-events-c-ical__link:active:before, .tribe-events .tribe-events-c-ical__link:focus:before, .tribe-events .tribe-events-c-ical__link:hover:before {
+    content: '+';
+    color: #ffffff;
+    background-image: none;
+}
